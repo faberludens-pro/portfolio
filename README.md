@@ -4,7 +4,7 @@ Senior UX Lead & Researcher with 15+ years of experience in product design, UX r
 
 Available for international UX consulting and embedded UX lead engagements.
 
-**Contact:** [faberludens.com.br](https://faberludens.com.br)
+**Contact:** [faberludens.pro](https://faberludens.pro) · contact@faberludens.pro
 **LinkedIn:** [linkedin.com/in/goncaloferraz](https://linkedin.com/in/goncaloferraz)
 
 ---
