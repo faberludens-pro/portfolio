@@ -1,88 +1,46 @@
-# Strategic Activation & Retention Research
+# Activation & Retention Research — B2B SaaS
 
 **Domain:** B2B SaaS — Process Management Platform
 **Type:** Mixed-Methods UX Research
 **Year:** 2020
 **Role:** Lead UX Researcher
-**Company:** Faber-Ludens Pro
 
 ---
 
-## Executive Summary
-
-**The Problem:** A B2B process management platform was experiencing declining retention rates and a significant drop-off at the top of the funnel. Users were landing on the platform "feeling confused" and failing to reach activation within the critical 14-day window.
-
-**The Strategy:** I led a rigorous study involving 100 interviews across two distinct quarters to map the customer journey against the Pirate Metrics (AARRR) framework. Users were segmented by role (HR, Finance) and company size to identify specific friction points.
-
-**The Outcome:** The research disproved the "one-size-fits-all" onboarding assumption. SMBs required a self-service Product-Led Growth (PLG) path, while Enterprises required a sales-assisted model — fundamentally shifting the product roadmap.
+| | |
+|---|---|
+| **100** interviews across 2 phases | **259** documented findings |
+| **7** competitors benchmarked | **3** user segments identified |
+| **2** onboarding strategies recommended | **2×** ARR growth the following year |
 
 ---
 
-## The Challenge: Diagnosing the "Confused" User
+A workflow management platform was losing users before they ever reached their first meaningful moment with the product. Retention was trending down, and the team didn't know whether the problem lived on the website, in the signup flow, or inside the product itself. My job was to find out — and define what "activation" should actually mean for this product.
 
-The client identified that retention numbers were trending downward, specifically at the top of the funnel. The primary business goal was to define improvements to activate users within 14 days of sign-up.
+## What I did
 
-Initial data analysis revealed a troubling pattern:
+Over **6 months**, I ran a two-phase research program totaling **100 interviews** and **259 documented findings**.
 
-- **Primary sentiment:** "Feeling confused" was the most frequent finding (79 occurrences), significantly outweighing technical usability issues.
-- **The barrier:** The website and sign-up flow acted as massive blockers — users were hesitant to provide information or failed to grasp the value proposition before entering the product.
-- **The disconnect:** Users struggled to find a "good fit" for their specific use cases, perceiving the tool as too horizontal rather than specialized for HR or Finance.
+**Phase 1** focused on potential customers — people who had signed up but never converted. I interviewed **64 participants** across the US and Canada, ranging from small teams to large enterprises, all in HR or Finance roles. Sessions included side-by-side comparisons with **7 competitors** across the HR, Finance, and horizontal workflow tool categories. Research strategy was updated weekly as patterns emerged.
 
----
+Mid-project, a benchmark session with an external growth advisory firm reframed the research focus. Best-in-class SaaS products defined activation through three components: a time window, persona-specific paths, and High-Value Actions tied to retention. That framework became the backbone for Phase 2.
 
-## The Discovery: A 100-Interview Deep Dive
+**Phase 2** focused on active users and recently churned customers — **36 interviews** concentrated in the final weeks of Q4 — to identify which specific product actions predicted long-term retention.
 
-To move beyond internal assumptions, I orchestrated a high-volume research sprint.
+## What we found
 
-**Methodology:**
-- **Sample size:** 100 interviews over Q3 and Q4 2020
-- **Segmentation:** Potential customers (64%), current customers (36%), and bounced users — targeting HR and Finance professionals across varying company sizes
-- **Techniques:**
-  - Qualitative interviews to understand motivations and the "why" behind churn
-  - Competitor benchmarking — onboarding flows from leading workflow tools to identify industry standards for "Aha!" moments
-  - Empathy Map Canvas and Value Proposition Canvas for synthesis
+The headline finding was that one onboarding model couldn't serve all **3 user segments**:
 
----
+- **Small companies** don't arrive with processes — they build them inside the product. They onboard faster and activate more than any other segment.
+- **Medium companies** have semi-mature workflows they need to transfer. Their friction is about migration, not discovery.
+- **Large companies** don't self-sign-up. They evaluate from the outside, need to see the product before touching it, and require an internal business case before requesting a demo.
 
-## The Strategy: Segmenting the "Aha!" Moment
+Two other findings cut across all segments. First, users consistently needed to sketch their process on a whiteboard or in a separate tool before building anything in the product — a **1–2 week offline phase** that product analytics couldn't see, but that determined whether they ever came back. Second, High-Value features (automation, process customization, templates) were consistently invisible to users who hadn't received a demo. Self-service discovery was not a reliable path to activation.
 
-The data revealed a critical behavioral split. Activation hurdles were not uniform — they varied drastically by company size.
+The quantitative picture confirmed it: the top problem theme across **259 findings** was *lack of fit to use case* (**58 instances**), followed by *signup barrier* (**53**) and *hidden high-value actions* (**45**). The walkthrough — meant to guide users — was the most-cited source of in-product frustration.
 
-**Insight 1: The Company Size Divide**
+## What changed
 
-- **SMBs (51–200 employees) — "Doers":** Onboarded more frequently and activated faster. Primary friction occurred *inside* the product (broken walkthroughs, confusion with the Kanban view).
-- **Enterprises (10k+ employees) — "Considerers":** Often avoided self-service onboarding entirely, preferring demos or sales conversations. Friction occurred *outside* the product, driven by lack of trust in the value proposition.
+The research provided the evidence base for a fundamental shift in product and go-to-market strategy: **2 distinct onboarding paths** — a self-service PLG path for smaller teams and a sales-assisted model for enterprise.
 
-**Insight 2: The "Hidden" Value**
-
-Specific "High-Value Actions" correlated with retention: using Templates, setting up Automation, and customizing the Process Editor. Users consistently reported these features were hidden or unclear.
-
----
-
-## The Solution: Tailored Onboarding Paths
-
-Based on these findings, I recommended a bifurcated onboarding strategy to product leadership.
-
-**For SMBs (Product-Led Growth):**
-- **Optimize the Template Store:** 17 of 28 active users started with templates — prioritized as the primary activation driver.
-- **Fix the walkthrough:** The existing tour blocked critical actions. Recommended an interactive "learning-by-doing" approach instead.
-
-**For Enterprise (Sales-Led Growth):**
-- **Enable "Sneak Peeks":** Enterprise users wanted to see the product before committing — proposed video demos and sandbox views.
-- **Remove the signup barrier:** Complex early data entry was a major deterrent — recommended streamlining initial intake.
-
----
-
-## The Impact
-
-- **Strategic pivot:** Research provided evidence to shift from generic onboarding to a segmented strategy. Validated that smaller companies "shape their processes to the tool," while larger companies "adapt the tool to their processes."
-- **Activation redefined:** Moved the company away from vanity metrics toward activation defined by High-Value Actions (HVAs) such as Process Customization and Automation Setup.
-- **Roadmap focus:** Findings prioritized specific fixes for walkthrough ineffectiveness and hidden HVAs, directly addressing top in-app complaints.
-
----
-
-## Lessons Learned
-
-- **Context is king:** A feature that delights an SMB user (DIY customization) can overwhelm an Enterprise user who expects a structured demo. Segmentation is critical for UX, not just marketing.
-- **Volume reduces bias:** 100 interviews allowed statistical validation of qualitative feelings. When 79 participants mention "feeling confused," it becomes a mandate for change, not an anecdote.
-- **Visualizing the invisible:** Using Pirate Metrics helped the wider team see exactly where in the journey — consideration, onboarding, or activation — users were dropping off, making data actionable across functions.
+In 2021, the company launched a redesigned product that directly addressed the activation friction identified — simplified onboarding, surfaced high-value features, and dropped the blocking walkthrough. The platform **doubled its ARR** that year and raised a **$75M Series C**, with investors citing its ability to scale from a single team to an entire enterprise as a primary rationale.
