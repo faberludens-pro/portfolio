@@ -23,6 +23,8 @@ Over **6 months**, I ran a two-phase research program totaling **100 interviews*
 
 **Phase 1** focused on potential customers — people who had signed up but never converted. I interviewed **64 participants** across the US and Canada, ranging from small teams to large enterprises, all in HR or Finance roles. Sessions included side-by-side comparisons with **7 competitors** across the HR, Finance, and horizontal workflow tool categories. Research strategy was updated weekly as patterns emerged.
 
+![Interview tracking database — session log with job level, company size, and recording links for each participant](assets/saas-activation-retention-research-2020-interviews.png)
+
 Mid-project, a benchmark session with an external growth advisory firm reframed the research focus. Best-in-class SaaS products defined activation through three components: a time window, persona-specific paths, and High-Value Actions tied to retention. That framework became the backbone for Phase 2.
 
 **Phase 2** focused on active users and recently churned customers — **36 interviews** concentrated in the final weeks of Q4 — to identify which specific product actions predicted long-term retention.
