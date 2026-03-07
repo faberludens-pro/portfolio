@@ -14,6 +14,7 @@ Available for international UX consulting and embedded UX lead engagements.
 | File | Domain | Type | Year |
 |---|---|---|---|
 | [saas-activation-retention-research-2020.md](saas-activation-retention-research-2020.md) | B2B SaaS | UX Research | 2020 |
+| [legal-portal-ecosystem-unification-2025.md](legal-portal-ecosystem-unification-2025.md) | Legal / Professional Association | Enterprise IA & UX Strategy | 2025 |
 
 ---
 
