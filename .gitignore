@@ -1,0 +1,10 @@
+# Claude session files — local only, not for public repo
+CLAUDE.md
+CLAUDE-project-log.md
+
+# macOS
+.DS_Store
+
+# Cloudflare Pages assets and shared resources
+shared/
+assets/
