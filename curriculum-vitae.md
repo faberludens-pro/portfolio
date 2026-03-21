@@ -1,6 +1,6 @@
 # Gunther Eisen (Gonçalo Ferraz)
 
-hello@faberludens.pro · [linkedin.com/in/goncaloferraz](https://www.linkedin.com/in/goncaloferraz) · [Portfolio](https://github.com/faberludens-pro/portfolio) · Brazil
+hello@faberludens.pro · [linkedin.com/in/goncaloferraz](https://www.linkedin.com/in/goncaloferraz) · [Portfolio](https://github.com/faberludens-pro/portfolio/blob/main/README.md) · Brazil
 
 ---
 
