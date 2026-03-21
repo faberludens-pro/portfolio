@@ -109,7 +109,7 @@ Once visitors found interesting content in a category, they expected to be able 
 - Annotated content inventory and current IA map
 - Competitive analysis across 5 sites
 - New navigation structure: main menu, secondary menus with contextual item descriptions, footer reorganization
-- Interactive Figma prototype ([wireframes + prototype](https://www.figma.com/proto/gpaXnUx6U0waJSlV8eLzMM/[redacted]-Streamlined-Menu-Navigation?page-id=207%3A8418&node-id=207-9764&scaling=scale-down-width&starting-point-node-id=207%3A9764&hide-ui=1))
+- Interactive Figma prototype (<a href="https://www.figma.com/proto/gpaXnUx6U0waJSlV8eLzMM/[redacted]-Streamlined-Menu-Navigation?page-id=207%3A8418&node-id=207-9764&scaling=scale-down-width&starting-point-node-id=207%3A9764&hide-ui=1" target="_blank">wireframes + prototype</a>)
 - Validation test report with participant quotes and improvement backlog
 
 **Validation results:**
@@ -182,4 +182,4 @@ No long-term A/B testing was implemented during the study period. Without pre/po
 
 ![Pricing comparison page](assets/web-platform-navigation-redesign-research-2023/prototype-pricing.png)
 
-[▶ Interactive prototype](https://www.figma.com/proto/gpaXnUx6U0waJSlV8eLzMM/[redacted]-Streamlined-Menu-Navigation?page-id=207%3A8418&node-id=207-9764&scaling=scale-down-width&starting-point-node-id=207%3A9764&hide-ui=1)
+<a href="https://www.figma.com/proto/gpaXnUx6U0waJSlV8eLzMM/[redacted]-Streamlined-Menu-Navigation?page-id=207%3A8418&node-id=207-9764&scaling=scale-down-width&starting-point-node-id=207%3A9764&hide-ui=1" target="_blank">▶ Interactive prototype</a>
