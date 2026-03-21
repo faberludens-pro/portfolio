@@ -23,7 +23,7 @@ The case studies here are anonymized. They document the problem, the method, the
 | [Platform Migration Customer Feedback Analysis](web-hosting-platform-migration-research-2024-08.md) | Web Hosting / Enterprise SaaS | 2024 | Senior UX Researcher |
 | [E-Commerce Furniture Ethnographic Research](ecommerce-furniture-ethnographic-research-2019.md) | E-Commerce / Home Furnishing | 2019 | UX Researcher |
 | [Hearing Health Newsletter UX Strategy](hearing-health-newsletter-ux-strategy-2026-03.md) | Hearing Health / Medical Content | 2026 | Principal UX Strategist |
-| [Domain Management Usability Study](web-hosting-domain-management-usability-2025-01.md) | Web Hosting / Enterprise SaaS | 2025 | Senior UX Researcher |
+| [Hearing Health Website UX Audit](hearing-health-website-ux-audit-2026-03.md) | Hearing Health / Consumer Website | 2026 | Senior UX Auditor / Consultant |
 
 ---
 
