@@ -9,7 +9,7 @@ The case studies here are anonymized. They document the problem, the method, the
 **Available** for international UX consulting and embedded UX lead engagements.
 
 **Contact:** [faberludens.pro](https://faberludens.pro) · contact@faberludens.pro
-**LinkedIn:** [linkedin.com/in/goncaloferraz](https://linkedin.com/in/goncaloferraz)
+**LinkedIn:** [linkedin.com/in/goncaloferraz](https://linkedin.com/in/goncaloferraz) · [Curriculum Vitae](curriculum-vitae.md)
 
 ---
 
