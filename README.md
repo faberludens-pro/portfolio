@@ -13,7 +13,7 @@ The case studies here are anonymized. They document the problem, the method, the
 
 ---
 
-## Case Studies
+## Selected Cases
 
 | Case Study | Domain | Year | Primary Role |
 |---|---|---|---|
