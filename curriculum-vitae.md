@@ -20,13 +20,6 @@ I am fluent in English (C1, ETS TOEIC 955/990) and work internationally.
 
 ## Professional Experience
 
-### Guidepoint — Independent Advisor
-**February 2026 – Present**
-
-Subject matter expert in the Guidepoint professional advisory network, providing consultation to global investment firms, management consultancies, and corporations on questions of user experience strategy, digital product quality, and research operations maturity.
-
----
-
 ### Faber-Ludens Pro — Founder & Principal UX Consultant
 **January 2013 – Present · Brazil**
 
@@ -233,7 +226,6 @@ Served on the judging panel for the *Todos na Web* national web accessibility aw
 
 ## Professional Affiliations
 
-- Guidepoint Expert Network (2026–present)
 - W3C Brasil (2012)
 - Nova Acrópole — Classical Philosophy Studies (2007–present)
 - Lattes Curriculum (CNPq): [lattes.cnpq.br/9496403687986524](http://lattes.cnpq.br/9496403687986524)
