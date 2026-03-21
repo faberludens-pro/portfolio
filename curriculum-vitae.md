@@ -35,10 +35,10 @@ Independent consultancy undertaking strategic UX engagements across industries. 
 **Coopers Digital** *(August 2025 – Present)*
 A major client operated a fragmented digital ecosystem of internal and external systems that had grown without architectural coherence, producing operational inefficiencies and a disjointed experience for every category of user. The engagement involved mapping the entire ecosystem, conducting stakeholder interviews and system analysis, designing a unified information architecture and interaction pattern library, and presenting the resulting framework to senior leadership. The strategic blueprint was adopted as the foundation for a multi-year digital transformation initiative.
 
-**State Bar Association — Portal Ecosystem Unification** *(2025)*
+**State Bar Association — Portal Ecosystem Unification** *(2025)* · [→ case study](legal-portal-ecosystem-unification-2025.md)
 A professional association serving more than 50,000 legal professionals maintained four disconnected digital environments — each with independent authentication, navigation logic, and visual identity — obliging attorneys to context-switch between systems as a matter of daily professional routine. Commissioned to diagnose the fragmentation and design a unification strategy, the engagement produced a complete inventory of 140+ services and forms; a heuristic evaluation documenting twelve critical usability violations and establishing a baseline score of 6.2 out of 10; a series of stakeholder prioritisation workshops that resolved competing departmental claims through weighted scoring; and a three-tier information architecture proposing distinct environments for public visitors, transitional users, and practising attorneys. The architecture reframed the project from a visual redesign into a structural argument about organisational change. Projected outcomes include the consolidation of four authentication systems into one and a 40% reduction in first-level support volume.
 
-**MadeiraMadeira — Ethnographic Research** *(June–August 2019)*
+**MadeiraMadeira — Ethnographic Research** *(June–August 2019)* · [→ case study](ecommerce-furniture-ethnographic-research-2019.md)
 Contracted to conduct on-site qualitative research for one of Brazil's largest home furnishing e-commerce platforms. Field interviews and contextual observation sessions were conducted in participants' homes, documenting the full purchase decision journey from awareness to post-delivery. The central finding — that physical space visualisation was the primary barrier to purchase, and that the platform's two-dimensional product photography could not bridge the distance between representation and spatial reality — proved consequential. Within months of the research delivery, the company launched a network of physical guide shops: retail environments carrying no stock, designed specifically to allow customers to experience furniture in person before completing a transaction online. The company reached 100 physical locations and achieved unicorn status ($1B+ valuation) in 2021.
 
 **Selected further clients:** Bain & Company, Grupo Boticário, and a range of startups and digital agencies across financial services, manufacturing, telecommunications, and cosmetics retail.
@@ -50,20 +50,20 @@ Contracted to conduct on-site qualitative research for one of Brazil's largest h
 
 Led research and design work across a portfolio of global web services brands including HostGator, Web.com, and Bluehost. Representative projects:
 
-**Navigation Redesign Research** *(2023)*
+**Navigation Redesign Research** *(2023)* · [→ case study](web-platform-navigation-redesign-research-2023.md)
 Engaged to diagnose conversion failures on an enterprise web services platform. Designed and executed a four-method sequential research programme — desk research and competitive benchmarking across five market competitors; eight user interviews exploring mental models and terminology; a 25-participant card sort establishing structural groupings; and an interactive Figma prototype validated in 18 moderated usability sessions against the live platform and two competitors. The prototype was rated a median of 4 out of 5 (Much Better) by participants. The findings were initially set aside without implementation. Three months later, a second independent team was commissioned to conduct the same investigation and arrived at the same conclusions. The redesigned website, built to the proposed navigation architecture, shipped to production in mid-2025 — approximately two years after the original delivery.
 
-**Domain Management Usability Study** *(January 2025)*
+**Domain Management Usability Study** *(January 2025)* · [→ case study](web-hosting-domain-management-usability-2025-01.md)
 Designed and led a two-round moderated remote usability study evaluating redesigned domain management flows before any engineering work began. Round one identified seven critical issues — among them a terminology confusion between "purchase" and "connect," a danger-styled button positioned at a key action point, and confirmation language that failed to distinguish between two fundamentally different user actions. All five priority design revisions were implemented before the development sprint. Round two confirmed which corrections held and identified residual inconsistencies in label language across the full interface surface.
 
-**Platform Migration Research** *(August–September 2024)*
+**Platform Migration Research** *(August–September 2024)* · [→ case study](web-hosting-platform-migration-research-2024-08.md)
 Following the migration of customers from two acquired platforms to a unified system, dissatisfaction was widespread but its scope and root causes were unknown. Synthesised 999 unstructured customer responses across three data streams — two survey instruments and eight live customer interviews — applying thematic coding, sentiment analysis, and cross-platform comparative analysis. Critical incidents included the unrecovered loss of approximately 90,000 emails for one customer cohort and a pricing increase on domain renewals that one interviewed customer had calculated, precisely and with evident fury, at 72%. Findings were delivered to product, engineering, customer success, and executive leadership teams, and directly influenced the Q4 2024 and Q1 2025 product roadmaps.
 
 **Additional studies conducted:** product naming research; e-commerce onboarding usability testing; scalable hosting discovery research. Established ResearchOps workflows that standardised insight delivery across product teams and reduced research cycle time.
 
 ---
 
-### Pipefy — Senior UX Researcher
+### Pipefy — Senior UX Researcher · [→ case study](saas-activation-retention-research-2020.md)
 **March 2020 – July 2021 · United States (Remote)**
 
 Led research for a B2B SaaS workflow automation platform targeting HR and Finance teams in the North American market. Designed and executed a programme of 100 interviews over six months: 64 sessions with prospective customers across the United States and Canada, and 36 sessions with current customers and recent churners in the US, Canada, and Brazil. Produced 259 coded findings distributed across consideration, onboarding, and activation journey stages.
