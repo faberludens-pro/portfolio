@@ -129,13 +129,13 @@ The institute trained thousands of professionals who now occupy senior and leade
 | Institution | Role | Period | Disciplines |
 |---|---|---|---|
 | Universidade Positivo | Invited Professor | 2012–2020 | UX — Software Engineering & Embedded Systems (MBA) |
+| Fundação Centro de Análise, Pesquisa e Inovação Tecnológica (FUCAPI) | Visiting Professor | 2014 | Interaction Design Principles |
 | Pontifícia Universidade Católica do Paraná (PUCPR) | Assistant Professor | 2011–2014 | Ergonomics; Human-Computer Interaction; Usability |
+| Universidade do Sul de Santa Catarina (UNISUL) | Invited Professor | 2010–2011 | Usability; Interface Ergonomics |
+| Associação de Ensino de Santa Catarina (FASSESC) | Invited Professor | 2010 | Semiotics; Communication Theory |
 | Organização Paranaense de Ensino Técnico (OPET) | Assistant Professor | 2007–2008 | Usability; Information Architecture |
 | Universidade Norte do Paraná (UNOPAR) | Tenured Professor | 2004–2007 | Design Management; Communication Processes |
-| Universidade do Sul de Santa Catarina (UNISUL) | Invited Professor | 2010–2011 | Usability; Interface Ergonomics |
 | Universidade do Oeste de Santa Catarina (UNOESC) | Tenured Professor | 2003–2004 | Graphic Design Projects; Design Research |
-| Associação de Ensino de Santa Catarina (FASSESC) | Invited Professor | 2010 | Semiotics; Communication Theory |
-| Fundação Centro de Análise, Pesquisa e Inovação Tecnológica (FUCAPI) | Visiting Professor | 2014 | Interaction Design Principles |
 
 ---
 
