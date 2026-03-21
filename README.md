@@ -24,7 +24,7 @@ The case studies here are anonymized. They document the problem, the method, the
 | [Legal Portal Ecosystem Unification](legal-portal-ecosystem-unification-2025.md) | Legal / Professional Association | 2025 | Principal UX Strategist |
 | [Domain Management Usability Study](web-hosting-domain-management-usability-2025-01.md) | Web Hosting / Enterprise SaaS | 2025 | Senior UX Researcher |
 | [Platform Migration Customer Feedback Analysis](web-hosting-platform-migration-research-2024-08.md) | Web Hosting / Enterprise SaaS | 2024 | Senior UX Researcher |
-| [Website Navigation Redesign Research](web-platform-navigation-redesign-research-2023.md) | Web Hosting / SaaS | 2023 | Senior UX Researcher |
+| [Website Navigation Redesign Research](web-platform-navigation-redesign-research-2023.md) | Web Hosting / SaaS | 2023 | Principal UX Researcher |
 | [Product Naming Research](web-platform-product-naming-research-2023.md) | Web Hosting / SaaS | 2023 | Senior UX Researcher |
 | [E-Commerce Onboarding Usability Testing](web-platform-ecommerce-onboarding-usability-2022.md) | Web Hosting / SaaS | 2022 | Senior UX Researcher |
 | [Scalable Shared Hosting Research](web-hosting-scalable-shared-hosting-research-2022.md) | Web Hosting / SaaS | 2022 | Senior UX Researcher |

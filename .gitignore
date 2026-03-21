@@ -5,6 +5,5 @@ CLAUDE-project-log.md
 # macOS
 .DS_Store
 
-# Cloudflare Pages assets and shared resources
+# Cloudflare Pages shared resources
 shared/
-assets/
