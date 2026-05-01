@@ -24,6 +24,8 @@ The case studies here are anonymized. They document the problem, the method, the
 | [E-Commerce Furniture Ethnographic Research](ecommerce-furniture-ethnographic-research-2019.md) | E-Commerce / Home Furnishing | 2019 | UX Researcher |
 | [Hearing Health Newsletter UX Strategy](hearing-health-newsletter-ux-strategy-2026-03.md) | Hearing Health / Medical Content | 2026 | Principal UX Strategist |
 | [Hearing Health Website UX Audit](hearing-health-website-ux-audit-2026-03.md) | Hearing Health / Consumer Website | 2026 | Senior UX Auditor / Consultant |
+| [AI-Augmented UX Practice](ai-augmented-ux-practice-2026.md) | Practice Development / AI Workflow | 2026 | Practice Architect / AI Workflow Engineer |
+| [AI Practice Evidence Log](ai-practice.md) | Practice Development / AI Workflow | 2026 | Practice Architect / AI Workflow Engineer |
 
 ---
 
