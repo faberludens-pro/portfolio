@@ -1,0 +1,187 @@
+<!-- ============================================================
+     AI PRACTICE SECTION
+     Drop this block into index.html where you want the section.
+     Add "AI Practice" link to your nav pointing to #ai-practice.
+     Font: inherits your site's existing styles.
+     ============================================================ -->
+
+<style>
+  #ai-practice {
+    padding: 4rem 0;
+    border-top: 1px solid #e5e5e5;
+  }
+
+  .ai-practice-intro {
+    max-width: 640px;
+    margin-bottom: 2.5rem;
+  }
+
+  .ai-practice-intro p {
+    font-size: 1rem;
+    line-height: 1.75;
+    color: #444;
+    margin: 0;
+  }
+
+  .ai-capabilities {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .ai-cap {
+    border-left: 2px solid #111;
+    padding-left: 1rem;
+  }
+
+  .ai-cap-title {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #111;
+    margin: 0 0 0.4rem;
+  }
+
+  .ai-cap-body {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #555;
+    margin: 0;
+  }
+
+  .ai-methodology {
+    background: #f7f7f5;
+    border-radius: 4px;
+    padding: 1.25rem 1.5rem;
+    max-width: 640px;
+  }
+
+  .ai-methodology-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #999;
+    margin: 0 0 0.4rem;
+  }
+
+  .ai-methodology p {
+    font-size: 0.9rem;
+    line-height: 1.65;
+    color: #444;
+    margin: 0;
+  }
+
+  .ai-stack-note {
+    margin-top: 1.25rem;
+    font-size: 0.8rem;
+    color: #999;
+    line-height: 1.6;
+  }
+
+  .ai-stack-note strong {
+    color: #555;
+    font-weight: 500;
+  }
+</style>
+
+<section id="ai-practice">
+
+  <h2>AI Practice</h2>
+
+  <div class="ai-practice-intro">
+    <p>
+      I don't use AI tools — I architect AI systems. Over the past year I built
+      a fully operational AI-native UX practice: a governed multi-agent workforce,
+      automated research-to-delivery pipelines, and local ML infrastructure running
+      in daily production. The result is a practice that closes every manual
+      bottleneck in the UX workflow — from research ingestion to client handoff.
+    </p>
+  </div>
+
+  <div class="ai-capabilities">
+
+    <div class="ai-cap">
+      <p class="ai-cap-title">Multi-agent orchestration</p>
+      <p class="ai-cap-body">
+        20+ specialized agents operating as a governed workforce — each with a defined
+        role, formation history, and process assignments. Parallel specialist reviews,
+        cross-agent delegation chains, and equipment checks before new project types.
+        No human mediating technical detail between agents.
+      </p>
+    </div>
+
+    <div class="ai-cap">
+      <p class="ai-cap-title">Research-to-delivery automation</p>
+      <p class="ai-cap-body">
+        Full pipeline from raw inputs to shipped deliverables: 131-hour scope estimate
+        generated from a PRD + meeting transcripts + email threads; 44 GitHub Issues
+        created without manual copy-paste; 6 IA deliverables produced with zero human
+        authoring. Multi-locale UX audits via Firecrawl MCP across 6 simultaneous locales.
+      </p>
+    </div>
+
+    <div class="ai-cap">
+      <p class="ai-cap-title">Production ML infrastructure</p>
+      <p class="ai-cap-body">
+        Local vector search engine (ONNX, Apple MPS) powering dual-corpus knowledge
+        bases — classical library and professional domain KB. Multi-fallback PDF
+        ingestion pipeline. Memory hygiene automation via local LLM (Ollama/Mistral)
+        at zero API cost. Not a demo — runs in daily production.
+      </p>
+    </div>
+
+    <div class="ai-cap">
+      <p class="ai-cap-title">Custom MCP server development</p>
+      <p class="ai-cap-body">
+        Built a purpose-designed RSS MCP server (Python + FastMCP + SQLite) for
+        agent intelligence sweeps — feed registry, deduplication, WAL mode. Integrated
+        and configured 12 MCP servers across design, deployment, research, and
+        communication layers.
+      </p>
+    </div>
+
+    <div class="ai-cap">
+      <p class="ai-cap-title">Spec-to-prototype pipeline</p>
+      <p class="ai-cap-body">
+        Wireframes generated from IA screen trees via Stitch MCP. HTML/CSS prototypes
+        deployed to Cloudflare Pages in a single command. NotebookLM knowledge bases
+        delivered to clients as self-service Q&amp;A — the AI layer becomes a client
+        deliverable, not just an internal tool.
+      </p>
+    </div>
+
+    <div class="ai-cap">
+      <p class="ai-cap-title">AI governance design</p>
+      <p class="ai-cap-body">
+        Token economics as a first-class operational constraint. Modular instruction
+        loading — 75% reduction in always-loaded context. Agent council model for
+        knowledge base curation. Strategic review gates as real approval checkpoints.
+        Organizational design principles applied to AI systems.
+      </p>
+    </div>
+
+  </div>
+
+  <div class="ai-methodology">
+    <p class="ai-methodology-label">Proprietary methodology</p>
+    <p>
+      <strong>Sparse Primers</strong> — structured specification documents that encode
+      full design intent (information architecture, design tokens, component rules,
+      editorial guidelines) in AI-optimized format. Replaces wireframes as the primary
+      input to AI-generated prototypes. The method separates the designer's intellectual
+      work — the specification — from AI's execution work — the output. Replicable,
+      teachable, and applicable across teams.
+    </p>
+  </div>
+
+  <p class="ai-stack-note">
+    <strong>Stack:</strong>
+    Claude Code CLI · Perplexity MCP · Firecrawl MCP · Figma MCP · Stitch MCP ·
+    Excalidraw MCP · Cloudflare Pages + Wrangler · Gemini 2.5 · NotebookLM ·
+    Ollama · SentenceTransformer ONNX · FastMCP · GitHub CLI · Notion MCP
+  </p>
+
+</section>
