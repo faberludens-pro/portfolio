@@ -24,7 +24,7 @@ A web services platform wasn't converting. I answered **5 specific research ques
 | | |
 |---|---|
 | **4 research methods** across 3 months | **5 research questions** fully answered |
-| **22 card-sort participants** | **18 prototype validation participants** |
+| **25 card-sort participants** (22 validated) | **18 prototype validation participants** |
 | Prototype rated **median 4/5** vs. live competitors | Design independently validated by second team 3 months after delivery |
 | **~2 years later** — shipped to production | Website implemented as designed |
 

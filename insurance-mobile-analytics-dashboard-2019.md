@@ -93,7 +93,7 @@ Prior to the workshop, there were more than enough potential metrics to build a 
 
 **Outcome:** Product managers gained direct, self-service access to the app metrics they needed to make decisions, eliminating the months-long wait for analytics request fulfillment. The metric scope was validated by the team before any implementation work began.
 
-*Note: I left the company in January 2020 before the production dashboard was completed. Long-term adoption outcomes are unavailable. The methodology — research-led metric definition, team workshop for prioritization, and architecture handoff — is the transferable value.*
+*Note: I left the company in February 2020 before the production dashboard was completed. Long-term adoption outcomes are unavailable. The methodology — research-led metric definition, team workshop for prioritization, and architecture handoff — is the transferable value.*
 
 ---
 

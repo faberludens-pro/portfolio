@@ -26,7 +26,7 @@ I am fluent in English (C1, ETS TOEIC 955/990) and work internationally.
 Independent consultancy undertaking strategic UX engagements across industries. A selection of representative work follows.
 
 **Coopers Digital** *(August 2025 – Present)*
-A major client operated a fragmented digital ecosystem of internal and external systems that had grown without architectural coherence, producing operational inefficiencies and a disjointed experience for every category of user. The engagement involved mapping the entire ecosystem, conducting stakeholder interviews and system analysis, designing a unified information architecture and interaction pattern library, and presenting the resulting framework to senior leadership. The strategic blueprint was adopted as the foundation for a multi-year digital transformation initiative.
+A major client operated a fragmented digital ecosystem of internal and external systems that had grown without architectural coherence, producing operational inefficiencies and a disjointed experience for every category of user. The engagement involved mapping the entire ecosystem, conducting stakeholder interviews and system analysis, designing a unified information architecture and interaction pattern library, and presenting the resulting framework to senior leadership. The strategic blueprint was presented to senior leadership to inform a multi-year digital transformation initiative.
 
 **State Bar Association — Portal Ecosystem Unification** *(2025)*
 A professional association serving more than 50,000 legal professionals maintained four disconnected digital environments — each with independent authentication, navigation logic, and visual identity — obliging attorneys to context-switch between systems as a matter of daily professional routine. Commissioned to diagnose the fragmentation and design a unification strategy, the engagement produced a complete inventory of 140+ services and forms; a heuristic evaluation documenting twelve critical usability violations and establishing a baseline score of 6.2 out of 10; a series of stakeholder prioritisation workshops that resolved competing departmental claims through weighted scoring; and a three-tier information architecture proposing distinct environments for public visitors, transitional users, and practising attorneys. The architecture reframed the project from a visual redesign into a structural argument about organisational change. Projected outcomes include the consolidation of four authentication systems into one and a 40% reduction in first-level support volume.
@@ -52,7 +52,7 @@ Engaged to diagnose conversion failures on an enterprise web services platform. 
 Designed and led a two-round moderated remote usability study evaluating redesigned domain management flows before any engineering work began. Round one identified seven critical issues — among them a terminology confusion between "purchase" and "connect," a danger-styled button positioned at a key action point, and confirmation language that failed to distinguish between two fundamentally different user actions. All five priority design revisions were implemented before the development sprint. Round two confirmed which corrections held and identified residual inconsistencies in label language across the full interface surface.
 
 **Platform Migration Research** *(August–September 2024)*
-Following the migration of customers from two acquired platforms to a unified system, dissatisfaction was widespread but its scope and root causes were unknown. Synthesised 999 unstructured customer responses across three data streams — two survey instruments and eight live customer interviews — applying thematic coding, sentiment analysis, and cross-platform comparative analysis. Critical incidents included the unrecovered loss of approximately 90,000 emails for one customer cohort and a pricing increase on domain renewals that one interviewed customer had calculated, precisely and with evident fury, at 72%. Findings were delivered to product, engineering, customer success, and executive leadership teams, and directly influenced the Q4 2024 and Q1 2025 product roadmaps.
+Following the migration of customers from two acquired platforms to a unified system, dissatisfaction was widespread but its scope and root causes were unknown. Synthesised 999 unstructured customer responses across three data streams — two survey instruments and eight live customer interviews — applying thematic coding, sentiment analysis, and cross-platform comparative analysis. Critical incidents included the unrecovered loss of approximately 90,000 emails for one customer cohort and a pricing increase on domain renewals that one interviewed customer had calculated, precisely and with evident fury, at 72%. Findings were delivered to product, engineering, customer success, and executive leadership teams, and fed a prioritized, cross-functional action plan.
 
 **Additional studies conducted:** product naming research; e-commerce onboarding usability testing; scalable hosting discovery research. Established ResearchOps workflows that standardised insight delivery across product teams and reduced research cycle time.
 
@@ -67,7 +67,7 @@ Led research for a B2B SaaS workflow automation platform targeting HR and Financ
 
 A mid-programme pivot — precipitated by a benchmark session with OpenView Partners identifying that the platform had not yet formally defined its High-Value Actions or activation criteria — redirected Phase 2 from studying why users left toward understanding what behaviours predicted retention among those who stayed. The resulting framework identified Automations, Public Form, and Email Templates as the primary retention drivers, and recommended two distinct onboarding paths: a self-service product-led growth model for smaller companies and a sales-assisted model for enterprise accounts, whose representatives consistently declined to self-register without a prior demonstration.
 
-The research findings informed a product redesign to which I also contributed — simplifying onboarding, surfacing high-value features earlier in the activation journey, and replacing the blocking walkthrough with contextual nudges tied to actual user tasks. In 2021, Pipefy launched the redesigned experience, doubled its annual recurring revenue, and raised a $75M Series C. Investors explicitly cited the platform's capacity to scale from a single team to an enterprise deployment as a primary rationale — the segmentation of small, medium, and large organisations as users with incompatible onboarding requirements that this research had defined.
+The research findings informed a product redesign to which I also contributed — simplifying onboarding, surfacing high-value features earlier in the activation journey, and replacing the blocking walkthrough with contextual nudges tied to actual user tasks. In 2021, Pipefy launched the redesigned experience. During the engagement the platform reported triple-digit ARR growth; it subsequently raised a $75M Series C (October 2021, led by SoftBank Latin America Fund).
 
 Built the organisation's first centralised ResearchOps system, including a participant repository and standardised reporting processes. Mentored product and marketing team members in applied research methods.
 
@@ -78,21 +78,21 @@ Built the organisation's first centralised ResearchOps system, including a parti
 ### Bradesco Seguros — Senior UX Researcher & Team Leader
 **August 2019 – February 2020 · Curitiba, Brazil**
 
-Led the mobile application design team at one of Brazil's largest insurance and financial services groups. Responsible for UX research, product strategy, and team operations. Introduced DesignOps processes that reduced the delivery cycle for new features by 20%. Mentored junior and mid-level designers. Oversaw the design and launch of three new application features with measured engagement improvement.
+Led the mobile application design team at one of Brazil's largest insurance and financial services groups. Responsible for UX research, product strategy, and team operations. Introduced DesignOps processes to streamline the delivery cycle for new features. Mentored junior and mid-level designers. Contributed to product strategy and metrics development across the mobile application.
 
 ---
 
 ### Mentores Digital — Senior UX Consultant & Design Sprint Facilitator
 **October 2016 – March 2020 · Curitiba, Brazil**
 
-Delivered strategic UX consulting and Design Sprint facilitation for a digital product agency. Facilitated more than fifteen Design Sprints across industries including retail, health technology, financial services, and manufacturing — taking client teams from problem definition to a tested prototype in five working days. Led research, information architecture, and interaction design on each engagement.
+Delivered strategic UX consulting and Design Sprint facilitation for a digital product agency. Facilitated more than a dozen Design Sprints and design-thinking sessions across industries including retail, financial services, and manufacturing (2017–2019) — taking client teams from problem definition to a tested prototype in five working days. Led research, information architecture, and interaction design on each engagement.
 
 ---
 
 ### Mercafacil — Information Architect
 **May 2018 – April 2019 · Curitiba, Brazil**
 
-Redesigned the information architecture of a B2B retail loyalty SaaS platform and its companion mobile application. Conducted research workshops to surface navigation and taxonomy failures, redesigned user flows and content hierarchy, authored interface copy, and validated the revised structure through usability testing. The redesigned mobile application received a 30% higher rating in the app stores; support tickets related to navigation fell by 50%.
+Redesigned the information architecture of a B2B retail loyalty SaaS platform and its companion mobile application. Conducted research workshops to surface navigation and taxonomy failures, redesigned user flows and content hierarchy, authored interface copy, and validated the revised structure through usability testing.
 
 ---
 
