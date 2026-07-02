@@ -65,16 +65,16 @@ Recruited 50 participants representative of the target audience. Each rated all 
 ## 4. Analysis and Insights
 
 **Finding 1 — One name outperformed all others across the criteria that matter most for adoption.**
-[redacted] led on preferred name, ease of recall, ease of pronunciation, and positive associations. Its composite score (5.6/6) was meaningfully above the second-place name (5.0/6) and well above the field.
+The recommended name — a simple two-word, non-prefix construction — led on preferred name, ease of recall, ease of pronunciation, and positive associations. Its composite score (5.6/6) was meaningfully above the second-place name and well above the field.
 
 **Finding 2 — The "WP" prefix pattern consistently underperformed.**
-Four of the six candidate names used a "WP [noun]" construction. All four underperformed relative to the two names without the prefix. Participants found "WP" names more technical-sounding and harder to distinguish from each other. The two-word non-prefix construction ("[redacted]," "[redacted]") was consistently better received by a non-technical audience.
+Four of the six candidate names used a "WP [noun]" construction. All four underperformed relative to the two names without the prefix. Participants found the WP-prefixed names more technical-sounding and harder to distinguish from each other. The two-word non-prefix constructions were consistently better received by a non-technical audience.
 
-**Finding 3 — "[redacted]" was last on the most important criteria.**
-The lowest-scoring name scored 2.6/6 — weakest on preferred name, memorability, pronunciation, and understandability. It was the most generic of the six options and produced the least positive associations.
+**Finding 3 — A WP-prefixed candidate ranked last on the most important criteria.**
+The lowest-scoring name was weakest on preferred name, memorability, pronunciation, and understandability. It was the most generic of the six options and produced the least positive associations.
 
 **Finding 4 — User language before exposure matters.**
-The Stage 2 word-association exercise revealed that target users describe their WordPress experience with words like "Design," "Create," and "Build" — not with technical terms. [redacted]' construction (simple, tactile, building-metaphor) aligned naturally with this language without requiring the "WP" technical marker.
+The Stage 2 word-association exercise revealed that target users describe their WordPress experience with words like "Design," "Create," and "Build" — not with technical terms. The recommended name's construction (simple, tactile, building-metaphor) aligned naturally with this language without requiring the "WP" technical marker.
 
 ---
 
@@ -94,9 +94,9 @@ The final naming decision rested with the marketing team, who received the recom
 
 Top findings delivered:
 
-1. **[redacted]** — clear winner; recommended for adoption; 5.6/6 composite across all criteria
+1. **The winning two-word name** — clear winner; recommended for adoption; 5.6/6 composite across all criteria
 2. **Avoid the "WP" prefix pattern** for products targeting non-technical users — the construction signals technical complexity to a beginner audience
-3. **Test global linguistic concerns for "[redacted]"** if the product will be marketed in non-English markets — "Wonder" has strong English connotations that may not translate directly
+3. **Test global linguistic concerns for the recommended name** if the product will be marketed in non-English markets — its lead term has strong English connotations that may not translate directly
 
 Follow-up research recommended:
 - In-market name recognition study 6–12 months post-launch to track whether the name registered correctly with the target audience
@@ -108,7 +108,7 @@ Follow-up research recommended:
 
 **What worked:** The four-stage structure was the right defense against the most common failure mode in naming research: asking users to rank names without first establishing what criteria matter. By defining the evaluation dimensions before any exposure to candidates, the research produced a scoring framework the team trusted — not just a popularity contest.
 
-The Proof of Concept Survey's word-association exercise was particularly useful. Capturing how users describe the existing product before showing them new names revealed the natural language the names would be competing against. [redacted] fit that language; the WP-prefixed names didn't.
+The Proof of Concept Survey's word-association exercise was particularly useful. Capturing how users describe the existing product before showing them new names revealed the natural language the names would be competing against. The recommended name fit that language; the WP-prefixed names didn't.
 
 **Challenges:** The sample for both surveys was recruited through the research platform, which skews toward people comfortable with online surveys — not necessarily representative of the least-tech-savvy end of the target audience. True beginners are harder to recruit than intermediate users who self-identify as beginners.
 

@@ -7,3 +7,9 @@ CLAUDE-project-log.md
 
 # Cloudflare Pages shared resources
 shared/
+
+# Claude session housekeeping — local only
+CLAUDE-session.md
+
+# Internal audit — never publish
+cv-portfolio-consistency-audit-2026-06-27.md

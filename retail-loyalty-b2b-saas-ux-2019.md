@@ -32,7 +32,7 @@ A Brazilian loyalty and CRM SaaS for supermarket chains was undergoing a major p
 | Clients interviewed | 10 supermarket chains |
 | Respondents | 17 |
 | Proto-personas defined | 3 (Marketing Analyst, Director, Manager) |
-| IA document size | 33MB (comprehensive platform information architecture) |
+| IA document length | 33 pages (comprehensive platform information architecture) |
 | Engagement duration | ~2 years (2017–2019) |
 
 ---
@@ -49,13 +49,13 @@ The client was a B2B SaaS company providing a loyalty program and customer relat
 
 ---
 
-## 2. My Role (analyzed from project log)
+## My Role
 
 **Primary: Senior UX Designer / UX Researcher**
-Embedded cross-functional UX lead for a B2B SaaS redesign over two years; combined IA restructuring, feature design, user research, and physical touchpoint design across 10 parallel workstreams.
+Embedded cross-functional UX lead for a B2B SaaS redesign over two years; combined IA restructuring, feature design, user research, and physical touchpoint design across multiple parallel workstreams — ontology and IA, user research, card sorting, dashboard wireframes, the kiosk sign-up flow, and onboarding strategy.
 
 **Secondary roles:**
-- **Information Architect**: Designed the formal platform ontology (XMind + Word document); produced the content inventory and comprehensive IA document (33MB); defined the taxonomy that structured the entire redesign.
+- **Information Architect**: Designed the formal platform ontology (XMind + Word document); produced the content inventory and comprehensive IA document (33 pages); defined the taxonomy that structured the entire redesign.
 - **UX Researcher**: Led Q4 2018 user research — 13 sessions, 10 clients, 17 respondents; produced proto-personas and requirements; also conducted card sorting studies for campaigns and configuration navigation, and churn research.
 
 ---
@@ -63,10 +63,10 @@ Embedded cross-functional UX lead for a B2B SaaS redesign over two years; combin
 ## 3. Method
 
 **Information architecture — ontology first.**
-The platform had overlapping concepts that had accumulated without formal taxonomy. Before designing any screens, an ontology was produced in XMind: defining entities, their relationships, and the attributes that distinguished them. This fed into a comprehensive IA document (33MB) that became the redesign's structural foundation. Content inventory was produced in parallel.
+The platform had overlapping concepts that had accumulated without formal taxonomy. Before designing any screens, an ontology was produced in XMind: defining entities, their relationships, and the attributes that distinguished them. This fed into a comprehensive IA document (33 pages) that became the redesign's structural foundation. Content inventory was produced in parallel.
 
 **Q4 2018 user research — regional focus, in-person priority.**
-Participants were supermarket chains in the state of Paraná, Brazil, prioritized for in-person visits. 10 clients were selected through a status review with the consulting team. 13 sessions total (8 in-person, 5 remote via Skype/Google Meet), with 17 respondents across marketing, directorship, management, purchasing, commercial, and finance roles. Dozens of supplementary phone and WhatsApp interactions to complete, update, and verify data not covered in the main sessions.
+Participants were regional supermarket chains, prioritized for in-person visits. 10 clients were selected through a status review with the consulting team. 13 sessions total (8 in-person, 5 remote via Skype/Google Meet), with 17 respondents across marketing, directorship, management, purchasing, commercial, and finance roles. Dozens of supplementary phone and WhatsApp interactions to complete, update, and verify data not covered in the main sessions.
 
 **Proto-persona synthesis.**
 Results were organized by professional profile rather than individual, producing three proto-personas: Marketing Analyst (majority of respondents; 7 out of 17; platform's primary daily user; rated platform 7/10), Director (high-level strategic users; rated platform 8.6/10; prioritized revenue and TKTM), and Manager (operational; rated platform 9.5/10; primarily needed customer base administration and sector performance views). Where respondents performed multiple roles, data was allocated to the dominant profile.
@@ -75,7 +75,7 @@ Results were organized by professional profile rather than individual, producing
 Separate card sorting studies were conducted for two areas of the platform: campaign navigation (where features related to SMS campaigns, encarte campaigns, and results should live) and configuration settings (how users expected to find platform configuration options). Results were synthesized into navigation proposals for each area.
 
 **Dashboard wireframes — Balsamiq iteration, XD export.**
-Dashboard wireframes were produced in Balsamiq for rapid iteration, then exported to Adobe XD for stakeholder presentation and developer handoff. The dashboard covered 6 sections: Home, Client analytics, Campaigns, Clube (loyalty), SMS results, and a [redacted] modal.
+Dashboard wireframes were produced in Balsamiq for rapid iteration, then exported to Adobe XD for stakeholder presentation and developer handoff. The dashboard covered 6 sections: Home, Client analytics, Campaigns, a loyalty module, SMS results, and a price-point modal.
 
 **Totem sign-up flow — physical touchpoint design.**
 The in-store kiosk sign-up experience for shoppers (cadastramento) required a separate UX treatment from the web platform. The flow was designed for a touchscreen kiosk context: different input constraints, different user (shopper, not staff), and different session time expectations. A standardized registration spec was produced for the client's IT team.
@@ -107,16 +107,16 @@ The platform had no formal client categorization beyond an informal size estimat
 ## 5. Deliverables and Outcomes
 
 **Deliverables produced (2017–2019):**
-- `Plataforma – Arquitetura da Informação.docx` — Comprehensive platform IA document (33MB)
-- `Ontologia.xmind` — Platform information taxonomy / ontology
-- `Dashboards.pdf` + individual section PDFs (6 sections) — Full dashboard wireframe set
-- `Dashboards do Balsamiq.xd` — Adobe XD dashboard designs
-- `research-report-user-profiles-and-needs-2018Q4.md` — Q4 2018 research report (proto-personas, indicators, requirements)
+- Comprehensive platform IA document (33 pages)
+- Platform information taxonomy / ontology
+- Full dashboard wireframe set (6 sections)
+- Adobe XD dashboard designs
+- Q4 2018 research report (proto-personas, indicators, requirements)
 - Card sorting results decks (campaigns, configuration)
-- `Campanha SMS fluxo.pdf` — Campaign SMS flow diagram
-- `Onboarding-strategy.png` / `.pdf` — Onboarding strategy diagram
-- `Padrao-cadastramento-pelo-totem.md` — Totem registration standard specification
-- `magic-price-point-mpp-modal.pdf` — MPP modal design
+- Campaign SMS flow diagram
+- Onboarding strategy diagram
+- Totem registration standard specification
+- Price-point modal design
 
 **Outcomes:**
 - Q4 2018 research produced the platform's first formal user segmentation — three proto-personas with distinct success metrics, feature needs, and platform usage patterns.

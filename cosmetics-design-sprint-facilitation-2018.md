@@ -15,7 +15,7 @@ impact: "Three sprints completed across different departments; prototypes valida
 
 # Cosmetics Group — Design Sprint Facilitation for Supply Chain, MRO, and Marketplace
 
-One of the world's largest cosmetics groups needed to tackle complex internal operational challenges without the risk of large-scale development projects. Over multiple Design Sprint engagements spanning different departments and years, the collaboration produced validated prototypes for three distinct business problems: rationalizing a fragmented franchise supply purchasing process, eliminating errors in the maintenance-repair-operations (MRO) workflow, and building a modern marketplace experience for franchisees. Each sprint produced a tested prototype and a clear picture of what the solution needed to be.
+A large cosmetics retailer needed to tackle complex internal operational challenges without the risk of large-scale development projects. Over multiple Design Sprint engagements spanning different departments and years, the collaboration produced validated prototypes for three distinct business problems: rationalizing a fragmented franchise supply purchasing process, eliminating errors in the maintenance-repair-operations (MRO) workflow, and building a modern marketplace experience for franchisees. Each sprint produced a tested prototype and a clear picture of what the solution needed to be.
 
 *Note: Sprint reports are available as PDF files; detailed numerical outcomes are not reconstructable from available source materials for this retrospective entry.*
 
@@ -23,7 +23,7 @@ One of the world's largest cosmetics groups needed to tackle complex internal op
 
 ## 1. Context
 
-The client is a large Brazilian cosmetics company with an extensive franchised retail network. As a franchise organization, many of its operational challenges sit at the intersection of central management and distributed execution — creating coordination, visibility, and error-prevention problems that are difficult to solve with standard software development cycles.
+The client is a large cosmetics retailer with an extensive franchised retail network. As a franchise organization, many of its operational challenges sit at the intersection of central management and distributed execution — creating coordination, visibility, and error-prevention problems that are difficult to solve with standard software development cycles.
 
 **Why Design Sprints:** The company needed to test solutions quickly before committing to development. The Design Sprint methodology (Google Ventures model) compresses a multi-month design process into a week: understand the problem deeply, sketch competing solutions, decide on the best approach, build a prototype, and test it with real users — all in five days.
 
@@ -31,10 +31,10 @@ The client is a large Brazilian cosmetics company with an extensive franchised r
 
 ---
 
-## 2. My Role (analyzed from project log)
+## My Role
 
 **Primary: UX Designer / Design Sprint Facilitator**
-Facilitated multiple Design Sprints for a major cosmetics group; designed and tested prototypes for supply chain, MRO, and marketplace workflows across different departments and years.
+Facilitated multiple Design Sprints for a large cosmetics retailer; designed and tested prototypes for supply chain, MRO, and marketplace workflows across different departments and years.
 
 No secondary roles documented for this engagement — the work was focused on sprint facilitation and prototype design.
 
@@ -45,8 +45,8 @@ No secondary roles documented for this engagement — the work was focused on sp
 **Design Sprint methodology (GV model).**
 Each sprint followed the five-day structure: Monday (map the problem, identify the critical path), Tuesday (diverge — sketch competing solutions), Wednesday (decide — vote on the strongest solution), Thursday (build a prototype at the right level of fidelity to test with users), Friday (test with 5 real users, synthesize findings).
 
-**Sprint 1 — Franchise Supply Purchasing ("[redacted]").**
-Problem: The franchise purchasing process for supplies was fragmented across 12,000+ products and 23 suppliers, with no central visibility for the franchisor. The sprint mapped the full current-state purchasing flow, identified the critical path (the point where errors, delays, and information gaps were most costly), and designed two solutions: a franchisee-facing purchasing platform ("[redacted]") and an internal management interface ("[redacted]") for the corporate team.
+**Sprint 1 — Franchise Supply Purchasing (the loyalty-commerce initiative).**
+Problem: The franchise purchasing process for supplies was fragmented across a large multi-supplier product catalogue, with no central visibility for the franchisor. The sprint mapped the full current-state purchasing flow, identified the critical path (the point where errors, delays, and information gaps were most costly), and designed two solutions: a franchisee-facing purchasing platform and an internal management interface for the corporate team.
 
 **Sprint 2 — MRO Process Digitization.**
 Problem: The MRO (Maintenance, Repair, Operations) process was managed in Word documents — no version control, no parallel processing, no real-time status visibility. The sprint question: "How to reduce MRO errors to zero and still gain speed?" The solution concept was a card-based web platform where each MRO item had an independent lifecycle (enabling parallel processing), all information was centralized, and status was visible at a glance.
@@ -65,10 +65,10 @@ Each sprint's prototype was tested with 5 real users drawn from the relevant sta
 The current Word-document process made parallel MRO work impossible — everything was sequential because the document was the single shared artifact. The card-based concept enabled parallel processing, which was the actual speed gain. Eliminating errors was a secondary benefit of the visibility improvement.
 
 **Insight 2 — Franchisees needed an experience, not a portal.**
-The existing franchise supply purchasing process was a portal — functional but not designed for the task. The "[redacted]" concept was explicitly designed as an e-commerce experience (familiar mental model, visual product catalog, simple checkout flow) rather than a procurement form. The franchisee's mental model for purchasing was closer to shopping than to enterprise procurement.
+The existing franchise supply purchasing process was a portal — functional but not designed for the task. The loyalty-commerce concept was explicitly designed as an e-commerce experience (familiar mental model, visual product catalog, simple checkout flow) rather than a procurement form. The franchisee's mental model for purchasing was closer to shopping than to enterprise procurement.
 
 **Insight 3 — The corporate management interface needed different success metrics from the franchisee interface.**
-The "[redacted]" management interface for the corporate team was not a simplified version of the franchisee interface — it was a completely different product. The franchisee needed to complete a purchase. The corporate manager needed to understand the full supply chain in one view: orders, fulfillment, service quality, pricing. Designing both from the same interface logic would have failed both.
+The management interface for the corporate team was not a simplified version of the franchisee interface — it was a completely different product. The franchisee needed to complete a purchase. The corporate manager needed to understand the full supply chain in one view: orders, fulfillment, service quality, pricing. Designing both from the same interface logic would have failed both.
 
 **Insight 4 — Sprint testing changed prototype decisions in every case.**
 In each sprint, the Friday user testing session produced at least one finding that changed the prototype before the sprint ended. Testing with real users — not stakeholders or internal team members — consistently surfaced assumptions that the Monday-Thursday process had not caught. This validated the methodology choice.
@@ -94,7 +94,7 @@ In each sprint, the Friday user testing session produced at least one finding th
 ## 6. Recommendations and Next Steps
 
 1. **MRO card status system** — define the exact status lifecycle (draft, submitted, in-review, approved, in-progress, complete, closed) and ensure the card transitions map to the actual approval authority chain, not just the ideal workflow.
-2. **[redacted] — supplier onboarding strategy** — a 23-supplier ecosystem requires a supplier portal with standardized product data before the franchisee experience can work. The purchasing experience is only as good as the product catalog behind it.
+2. **Loyalty-commerce initiative — supplier onboarding strategy** — a large multi-supplier product catalogue requires a supplier portal with standardized product data before the franchisee experience can work. The purchasing experience is only as good as the product catalog behind it.
 3. **Marketplace analytics — data contract first** — the dashboard value depends on the data the ordering system collects. Define the data schema before the marketplace goes to development, or the analytics dashboard will be built on incomplete data.
 4. **Post-sprint implementation support** — Design Sprints produce validated prototypes, not production-ready designs. Each sprint should be followed by a handoff session that translates the prototype into a design spec, edge cases, and engineering requirements.
 

@@ -2,7 +2,7 @@
 title: "Domain Management Usability Study — Enterprise Web Hosting Platform"
 year: 2025
 domain: Web Hosting / Enterprise SaaS
-duration: 2 weeks (January 2025)
+duration: 2 weeks (early 2025)
 primary_role: Senior UX Researcher
 secondary_roles:
   - Research Ops

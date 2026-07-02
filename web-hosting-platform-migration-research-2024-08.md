@@ -14,7 +14,7 @@ methods:
   - Sentiment analysis
   - Cross-platform comparative analysis
   - Issue frequency and severity mapping
-impact: Findings directly influenced Q4 2024 and Q1 2025 product roadmap across 4 cross-functional teams
+impact: Findings directly influenced the subsequent product roadmap across 4 cross-functional teams
 ```
 
 # Enterprise Web Hosting — Turning 999 Migration Complaints Into an Action Plan
@@ -23,7 +23,7 @@ When an enterprise web hosting company migrated thousands of customers from two 
 
 | | |
 |---|---|
-| **999** customer responses analyzed across 3 data streams | **~90,000** emails lost in a single migration incident |
+| **999** customer responses analyzed across 3 data streams | **A large-scale email-loss incident** during a single migration event |
 | **8** live conversations with migrated customers | **79** customers who explicitly named their legacy platform |
 | **8** prioritized improvement areas with specific actions | **4** cross-functional teams briefed |
 
@@ -33,7 +33,7 @@ When an enterprise web hosting company migrated thousands of customers from two 
 
 An enterprise web hosting company had acquired two competitor platforms and migrated thousands of customers to its unified system. Initial feedback signals pointed to widespread dissatisfaction, but the scope, root causes, and distinctions between the two migrated cohorts were unknown.
 
-The two legacy platforms served fundamentally different customer profiles. Platform A was a domain-focused registrar with a high proportion of long-tenured resellers and power users — many with 10+ years on the platform. Platform B was a website and email-focused service serving small business owners with varied technical skill levels. Both had been migrated to the same unified system, but their experiences of that migration were expected to differ significantly.
+Two acquired platforms had been consolidated into one, and the two legacy customer bases served fundamentally different profiles. Platform A skewed toward long-tenured power users — many with 10+ years on the platform. Platform B served small business owners with varied technical skill levels. Both had been migrated to the same unified system, but their experiences of that migration were expected to differ significantly.
 
 The business risk: customer churn at scale from two newly acquired cohorts simultaneously, with no clear picture of what was driving it or where to focus recovery efforts.
 
@@ -76,7 +76,7 @@ A secondary analysis of the unified platform's website builder used satisfaction
 Service quality degradation, feature parity gaps, and communication failures throughout the migration appeared as the top three themes for both Platform A and Platform B customers — suggesting these were structural migration failures, not legacy-platform-specific issues.
 
 **Finding 2 — The most critical incident for Platform A customers was a data integrity failure.**
-A single migration event caused the loss of **~90,000 emails** for affected accounts, with no recovery path or compensation communicated. Long-tenured customers — many 10+ years on Platform A — reported active intent to transfer their domains to competitors. The platform had silently removed features they relied on, with no equivalent alternatives provided.
+A single migration event caused a large-scale email-loss incident for affected accounts, with no recovery path or compensation communicated. Long-tenured customers — many 10+ years on Platform A — reported active intent to transfer their domains to competitors. The platform had silently removed features they relied on, with no equivalent alternatives provided.
 
 **Finding 3 — Platform B customers hit a wall of missing functionality.**
 Web forwarding, email alias management, and nameserver editing had all been deactivated on the unified platform. SSL certificate reliability was broken. Customers received no advance notice of the merger and no documentation explaining what had changed or why.
@@ -84,14 +84,14 @@ Web forwarding, email alias management, and nameserver editing had all been deac
 **Finding 4 — Customers felt blindsided universally.**
 No migration guidance, no system-difference documentation, no proactive outreach. This was the most consistent theme across all 999 responses: customers were discovering changes after the fact, on their own, without context.
 
-**Finding 5 — The website builder showed deeply polarized satisfaction (20% very satisfied vs. 45% dissatisfied).**
+**Finding 5 — The website builder showed a strongly polarized satisfaction split.**
 The gap was driven primarily by technical failures and inaccessible support — not by the product itself. Customers who could access working features were generally satisfied; those who encountered broken features had no path to resolution.
 
 **Finding 6 — Live conversations revealed severe retention risk with compelling specificity.**
-One long-tenured domain customer calculated a **72% price increase** on domain renewals ($21.99 → $37.99) and described starting a new customer relationship with an immediate price increase as "absolutely horrendous." A power user managing 20+ domains for family members and non-profits spent approximately **10 hours** attempting to transfer a single locked domain. A third customer transferred all his domains to a competitor the moment email forwarding was announced as discontinued — and completed the transfer before the decision was reversed, making him a lost customer despite the feature rollback.
+One long-tenured domain customer calculated a steep domain-renewal price increase and described starting a new customer relationship with an immediate price hike as deeply frustrating. A power user managing 20+ domains for family members and non-profits spent approximately **10 hours** attempting to transfer a single locked domain. A third customer transferred all his domains to a competitor the moment email forwarding was announced as discontinued — and completed the transfer before the decision was reversed, making him a lost customer despite the feature rollback.
 
 **Finding 7 — Feature discoverability was a distinct problem from feature availability.**
-One customer with a positive post-migration experience noted "once they find the feature, everything goes well" — confirming that even for unaffected users, finding features was the primary obstacle.
+One customer with a positive post-migration experience noted that once the relevant feature was located, everything worked well — confirming that even for unaffected users, finding features was the primary obstacle.
 
 ---
 
@@ -105,7 +105,7 @@ One customer with a positive post-migration experience noted "once they find the
   - **Customer Success**: support strategy and staff training recommendations
   - **Executive leadership**: business impact and retention risk assessment
 
-The research directly influenced the **Q4 2024 and Q1 2025 product roadmap** and established the foundation for an ongoing migration quality monitoring program.
+The research directly influenced **the subsequent product roadmap** and established the foundation for an ongoing migration quality monitoring program.
 
 ---
 
@@ -135,4 +135,4 @@ The live interviews were disproportionately valuable relative to their sample si
 
 **Challenges:** Four weeks was tight for 999 responses across three data streams. The volume required systematic coding rather than immersive reading, which created a risk of missing nuanced signals in the tail of open-ended responses.
 
-**What I'd do differently:** Establish a real-time feedback mechanism before migration begins — not just a post-migration survey. The 90,000 email incident and the email forwarding deactivation both caused churn before anyone on the product team knew they were happening. A pre-migration feature inventory, cross-referenced with active usage data, would have flagged both as high-risk before go-live.
+**What I'd do differently:** Establish a real-time feedback mechanism before migration begins — not just a post-migration survey. The large-scale email-loss incident and the email forwarding deactivation both caused churn before anyone on the product team knew they were happening. A pre-migration feature inventory, cross-referenced with active usage data, would have flagged both as high-risk before go-live.

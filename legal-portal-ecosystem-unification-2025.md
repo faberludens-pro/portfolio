@@ -67,7 +67,7 @@ I created the three-tier hypersegmentation architecture — the strategic framew
 The homepage tried to serve everyone simultaneously: institutional news mixed with critical attorney tools, public transparency mixed with members-only services. No user group could efficiently complete their primary tasks. Each sub-environment had grown to serve internal organizational needs, not user needs.
 
 **Finding 2 — Attorneys don't want to "visit the bar association website" — they want to resolve specific problems.**
-The existing structure was organized around *who owns the service* (Treasurer's Office, ESA, CAA, [redacted]) rather than *what the user is trying to do* (My Finances, My Continuing Education, My Benefits). This is a jobs-to-be-done architecture failure at the organizational level.
+The existing structure was organized around *who owns the service* (Treasurer's Office, the pension fund, the professional-education arm, and the benefits office) rather than *what the user is trying to do* (My Finances, My Continuing Education, My Benefits). This is a jobs-to-be-done architecture failure at the organizational level.
 
 **Finding 3 — Three user profiles with incompatible needs cannot share a single navigation.**
 Public visitors needed institutional transparency and an attorney directory. Law graduates and exam candidates needed a one-time onboarding path to membership. Practicing attorneys needed a task-oriented workspace for daily professional obligations. Serving all three from the same IA required progressive disclosure so complex it degraded all three experiences.

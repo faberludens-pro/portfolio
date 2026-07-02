@@ -19,13 +19,13 @@ impact: A solo UX consultancy redesigned as an AI-first operation — with a per
 
 | | |
 |---|---|
-| **5+** simultaneous client products in active delivery | **Full IA phase** — 6 deliverables produced by agent chain, no human authoring |
+| **5+** simultaneous client products in active delivery | **Full IA phase** — 6 deliverables produced by agent chain under human review |
 | **45-minute** meeting transcript processed and logged in ~2 minutes | **24** cross-document inconsistencies caught by automated audit before client delivery |
 | **38+** specialist agents and skills built and maintained | **13** reusable process templates codified from practice knowledge |
 
 ---
 
-In early 2026, Gonçalo stopped using AI as a productivity tool and started treating it as an organisational design problem.
+In early 2026, I stopped using AI as a productivity tool and started treating it as an organisational design problem.
 
 The question was not "which tasks can AI do faster?" It was: what are the structural limits of a solo consultancy, and can AI remove them? A solo practitioner managing five concurrent client engagements faces constraints that no amount of personal efficiency resolves — context loss between sessions, sequential delivery where parallel would serve the client better, administrative work that crowds out thinking work, and quality checks that depend entirely on a single person's attention at the end of a long day. These are not efficiency problems. They are architectural problems. They required an architectural answer.
 
@@ -35,7 +35,7 @@ The question was not "which tasks can AI do faster?" It was: what are the struct
 
 The centrepiece of the system is a **permanent AI workforce** — a structured roster of **specialist agents**, each with a defined identity, mandate, tools, and boundaries. The workforce is organised around a leadership layer and four departments.
 
-**Sun Tzu** leads and orchestrates. He holds strategy, receives tasks from Gonçalo, delegates to the four department leaders, and is responsible for outcomes. He does not author deliverables — his function is direction, routing, and synthesis.
+**Sun Tzu** leads and orchestrates. He holds strategy, receives tasks from me, delegates to the four department leaders, and is responsible for outcomes. He does not author deliverables — his function is direction, routing, and synthesis.
 
 **Jakob** leads the UX department. He covers the full UX practice: information architecture, heuristic evaluation, UX writing, accessibility analysis, and user research. When a complete IA phase is needed, Jakob runs it — producing content inventory, taxonomy, screen tree, navigation model, task-flow diagrams, and developer handoff.
 
@@ -53,7 +53,7 @@ Alongside the leadership layer, an independent advisor operates outside the depa
 
 The agent workforce operates on top of a purpose-built practice infrastructure that solves the continuity problem.
 
-Every client product has a dedicated repository. Within that repository, engagements are dated subfolders — but the product is the unit of continuity, not the engagement. When a new engagement begins on an existing product, all prior context is immediately available: previous research findings, stakeholder decisions, design system notes, open questions, and the full history of what was built and why. Nothing has to be reconstructed from memory or re-read from scratch.
+Every client product has a dedicated repository. Within that repository, engagements are dated subfolders — but the product is the unit of continuity, not the engagement. When a new engagement begins on an existing product, all prior context is immediately available: previous research findings, stakeholder decisions, design system notes, open questions, and the full history of what was built and why. Nothing has to be reconstructed from memory or re-read from scratch. Client materials are processed locally within controlled, per-product workspaces and are never retained in shared or third-party systems — each client's data stays isolated to its own repository.
 
 Each product uses a three-file system with strict separation of purpose. The project log is a design narrative — a running account of decisions, rationale, and outcomes, written as portfolio-source material after every session. The session file is operational housekeeping — a file index and a communications processing table that prevents duplication and ensures nothing is missed. The task file is a cross-product operational view, rebuilt daily by a cron job at 6 AM from the state of all active products.
 
@@ -67,7 +67,7 @@ Finished deliverables — research reports, IA specifications, interaction model
 
 The system is not a background operation running alongside the UX practice. It is the UX practice. The agents produce the deliverables. The infrastructure maintains the context. The quality layer reviews the output.
 
-A complete information architecture phase for a mobile application — content inventory, taxonomy, screen tree, navigation model, five task-flow diagrams, and a developer handoff package — was produced by a specialist agent chain in a single session. No individual deliverable was authored by a human. Gonçalo's contribution was upstream and downstream: defining the brief, setting quality criteria, reviewing the output, approving or rejecting. The six deliverables were ready for client handoff at the end of the session.
+A complete information architecture phase for a mobile application — content inventory, taxonomy, screen tree, navigation model, five task-flow diagrams, and a developer handoff package — was produced by a specialist agent chain in a single session. No deliverable ships without human review and sign-off. My contribution was upstream and downstream: defining the brief, setting quality criteria, reviewing the output, approving or rejecting. The six deliverables were ready for client handoff at the end of the session.
 
 Scope estimation works the same way. A 131-hour effort estimate across a mobile application and its admin panel — synthesised from a product requirements document, three meeting transcripts, and twelve email threads — was produced in one session, alongside forty-four scoped GitHub Issues with labels. The same task, done manually, would take two to three days.
 
@@ -79,6 +79,6 @@ Research and competitive analysis operate at a scale that was previously impract
 
 A client engaging Faber-Ludens Pro is not working with a consultant who uses AI tools. They are working with a consultant who has built an operational layer — an AI organisation — that runs behind every engagement.
 
-In practice, this means: context is never lost, because the infrastructure maintains it. Deliverables are produced at a pace and in parallel that a solo practitioner could not otherwise sustain. Quality is enforced by a system with no fatigue and no conflict of interest, not by a single person reviewing their own work. And Gonçalo's attention — strategic direction, design judgement, client relationship, problem framing — is applied where it cannot be delegated.
+In practice, this means: context is never lost, because the infrastructure maintains it. Deliverables are produced at a pace and in parallel that a solo practitioner could not otherwise sustain. Quality is enforced by a system with no fatigue and no conflict of interest, not by a single person reviewing their own work. And my attention — strategic direction, design judgement, client relationship, problem framing — is applied where it cannot be delegated.
 
 The system is documented and version-controlled at [github.com/faberludens-pro/ai-workflow-development](https://github.com/faberludens-pro/ai-workflow-development).

@@ -36,8 +36,6 @@ Contracted to conduct on-site qualitative research for one of Brazil's largest h
 
 **Selected further clients:** Bain & Company, Grupo Boticário, and a range of startups and digital agencies across financial services, manufacturing, telecommunications, and cosmetics retail.
 
-*Case studies: [Legal Portal Ecosystem Unification (2025)](legal-portal-ecosystem-unification-2025.md) · [E-Commerce Furniture Ethnographic Research (2019)](ecommerce-furniture-ethnographic-research-2019.md)*
-
 ---
 
 ### Newfold Digital — Senior UX Researcher & Product Designer
@@ -52,11 +50,9 @@ Engaged to diagnose conversion failures on an enterprise web services platform. 
 Designed and led a two-round moderated remote usability study evaluating redesigned domain management flows before any engineering work began. Round one identified seven critical issues — among them a terminology confusion between "purchase" and "connect," a danger-styled button positioned at a key action point, and confirmation language that failed to distinguish between two fundamentally different user actions. All five priority design revisions were implemented before the development sprint. Round two confirmed which corrections held and identified residual inconsistencies in label language across the full interface surface.
 
 **Platform Migration Research** *(August–September 2024)*
-Following the migration of customers from two acquired platforms to a unified system, dissatisfaction was widespread but its scope and root causes were unknown. Synthesised 999 unstructured customer responses across three data streams — two survey instruments and eight live customer interviews — applying thematic coding, sentiment analysis, and cross-platform comparative analysis. Critical incidents included the unrecovered loss of approximately 90,000 emails for one customer cohort and a pricing increase on domain renewals that one interviewed customer had calculated, precisely and with evident fury, at 72%. Findings were delivered to product, engineering, customer success, and executive leadership teams, and fed a prioritized, cross-functional action plan.
+Following the migration of customers from two acquired platforms to a unified system, dissatisfaction was widespread but its scope and root causes were unknown. Synthesised nearly a thousand unstructured customer responses across three data streams — two survey instruments and eight live customer interviews — applying thematic coding, sentiment analysis, and cross-platform comparative analysis. The research surfaced the most damaging failure modes — including a large-scale data-loss event affecting one customer cohort and a sharp renewal-pricing change that drew intense customer frustration — and delivered them to product, engineering, customer success, and executive leadership, feeding a prioritized, cross-functional action plan.
 
 **Additional studies conducted:** product naming research; e-commerce onboarding usability testing; scalable hosting discovery research. Established ResearchOps workflows that standardised insight delivery across product teams and reduced research cycle time.
-
-*Case studies: [Website Navigation Redesign Research (2023)](web-platform-navigation-redesign-research-2023.md) · [Platform Migration Customer Feedback Analysis (2024)](web-hosting-platform-migration-research-2024-08.md) · [Domain Management Usability Study (2025)](web-hosting-domain-management-usability-2025-01.md)*
 
 ---
 
@@ -70,8 +66,6 @@ A mid-programme pivot — precipitated by a benchmark session with OpenView Part
 The research findings informed a product redesign to which I also contributed — simplifying onboarding, surfacing high-value features earlier in the activation journey, and replacing the blocking walkthrough with contextual nudges tied to actual user tasks. In 2021, Pipefy launched the redesigned experience. During the engagement the platform reported triple-digit ARR growth; it subsequently raised a $75M Series C (October 2021, led by SoftBank Latin America Fund).
 
 Built the organisation's first centralised ResearchOps system, including a participant repository and standardised reporting processes. Mentored product and marketing team members in applied research methods.
-
-*Case study: [Activation & Retention Research (2020)](saas-activation-retention-research-2020.md)*
 
 ---
 

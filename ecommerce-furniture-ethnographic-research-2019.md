@@ -11,14 +11,14 @@ methods:
   - Ethnographic photography
   - Thematic synthesis
   - Research presentation (readout)
-impact: "Research found that physical space visualization was the primary barrier to furniture purchase decisions; within months the platform launched a physical 'guide shop' channel — no stock, in-person browsing + online purchase — directly addressing this finding; the company reached 100+ physical locations and unicorn status ($1B+ valuation) by 2021"
+impact: "Research found that physical space visualization was the primary barrier to furniture purchase decisions; the platform, a large Brazilian furniture e-commerce business that later expanded into physical retail, subsequently launched a no-stock in-person browsing channel that aligned directly with this finding"
 ```
 
 # Home Furnishing E-Commerce — Understanding the Decision Journey Through Field Research
 
-A large Brazilian home furniture and décor e-commerce platform commissioned a standalone research study to understand how customers made purchase decisions — not just what they did on the platform, but how the full decision process worked: researching, evaluating, deciding, and buying a piece of furniture. The engagement was a focused qualitative study using interviews and contextual field research, delivered across a 2–3 month period.
+A large Brazilian furniture e-commerce platform commissioned a standalone research study to understand how customers made purchase decisions — not just what they did on the platform, but how the full decision process worked: researching, evaluating, deciding, and buying a piece of furniture. The engagement was a focused qualitative study using interviews and contextual field research, delivered across a 2–3 month period.
 
-The central finding — that physical space visualization was the primary barrier to online furniture purchase, and that the platform's 2D product photography couldn't bridge that gap — directly shaped the company's next strategic move. Within months of the research delivery, the platform launched a physical retail channel: "guide shops" with no stock, designed specifically for in-person product experience followed by online purchase. The company reached **100+ physical locations** and achieved **unicorn status** ($1B+ valuation) in 2021, with its leadership explicitly citing the need to "complete the customer's purchase journey" and "allow customers to experience products physically" as the rationale for the channel.
+The central finding — that physical space visualization was the primary barrier to online furniture purchase, and that the platform's 2D product photography couldn't bridge that gap — pointed directly at a gap the platform later moved to close. The platform subsequently expanded into physical retail with a no-stock in-person browsing format, designed specifically for in-person product experience followed by online purchase — a strategic direction that aligned closely with the research finding.
 
 ---
 
@@ -34,7 +34,7 @@ The client was one of Brazil's major home furnishing e-commerce platforms — a 
 
 ---
 
-## 2. My Role (analyzed from project log)
+## My Role
 
 **Primary: UX Researcher**
 Planned and conducted qualitative field research on high-consideration e-commerce purchase behavior; synthesized ethnographic observations and interviews into a product team readout.
@@ -92,12 +92,12 @@ Visiting participants' homes showed the actual conditions in which decisions wer
 - Findings delivered to the product team for roadmap informing.
 - Field photography provided stakeholders with concrete ethnographic evidence of the decision context.
 
-**Strategic outcome — physical retail channel launch:**
-The platform's core strategic response to the research was not a feature update but a channel decision. Within months of the research delivery, the company launched a network of physical "guide shops" — retail spaces with no stock, designed entirely around the finding that customers needed to experience furniture physically before committing to an online purchase. The model: decorated environments where customers browse, touch, and size up products, then complete the transaction online in-store with consultant support.
+**Strategic outcome — physical retail channel:**
+The most consequential response to the research was not a feature update but a channel decision. The platform later expanded into physical retail with a no-stock browsing format — spaces designed around the finding that customers needed to experience furniture physically before committing to an online purchase. The model: decorated environments where customers browse, touch, and size up products, then complete the transaction online in-store with consultant support.
 
-This model directly addresses the research's central finding (physical space is the primary decision constraint) and secondary finding (return policy functions as a pre-purchase confidence signal — reduced by allowing physical contact with the product). The company reached **100+ guide shops** by mid-2021 and became the **first unicorn in Latin America** that year, with leadership explicitly citing the need to complete the customer's purchase journey and enable physical product experience as the channel rationale.
+This direction aligns closely with the research's central finding (physical space is the primary decision constraint) and secondary finding (return policy functions as a pre-purchase confidence signal — reduced by allowing physical contact with the product). The value the research demonstrated is in the craft: a small-sample ethnographic study surfaced a spatial-visualization barrier that clickstream data alone had never explained, and framed it clearly enough to inform strategy.
 
-The research was a standalone contract with no continuous client relationship; direct attribution to specific decisions is not verifiable from this position. The alignment between the findings and the channel strategy is direct and observable.
+The research was a standalone contract with no continuous client relationship; direct attribution to specific decisions is not verifiable from this position. The alignment between the findings and the subsequent channel strategy is observable, but causation cannot be claimed.
 
 ---
 

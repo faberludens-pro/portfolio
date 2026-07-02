@@ -1,5 +1,5 @@
 ```yaml
-title: "Design Sprint and Validation for a B2B Fiber-Network Equipment Program"
+title: "Design Sprint and Validation for a B2B Networking-Equipment Program"
 year: 2019
 domain: Manufacturing / Telecommunications / B2B
 duration: 2019
@@ -13,20 +13,20 @@ methods:
   - Service journey design (multi-scenario validation)
   - Validation interviews with B2B buyers (ISP owner-operators)
   - Experiential validation (guided factory open-house)
-impact: "Design Sprint produced and validated a new B2B 'Full Service' commercial program for fiber-network ISPs across two validation rounds — two digital prototypes tested with ISP owners, then a guided factory open-house as a sales-conversion environment. Qualitative validation reshaped the program's value proposition from equipment features toward financing, network valuation, and training."
+impact: "Design Sprint produced and validated a new B2B full-service commercial program for networking-equipment ISPs across two validation rounds — two digital prototypes tested with ISP owners, then a guided factory open-house as a sales-conversion environment. Qualitative validation reshaped the program's value proposition from equipment features toward financing, network valuation, and training."
 ```
 
-# Fiber-Network Equipment Manufacturer — Design Sprint for a B2B "Full Service" Program
+# Industrial Networking-Equipment Manufacturer — Design Sprint for a B2B Full-Service Program
 
-A Brazilian manufacturer of fiber-optic networking equipment (GPON / FTTx infrastructure) wanted to sell more of its **active** equipment — the OLT/ONU electronics at the heart of a fiber network — to small and mid-sized internet service providers (ISPs). The barrier was not the hardware; it was that these ISPs already bought the manufacturer's passive cabling but sourced their active gear from competitors. The engagement was a Design Sprint to design and validate a new commercial program — internally called **"Full Service" ([redacted] / [redacted])** — that would package the active equipment with 24-month financing, a network pre-project, provisioning software, and training. I facilitated the sprint and led two rounds of validation with real ISP buyers.
+An industrial networking-equipment manufacturer wanted to sell more of its **active** equipment — the electronics at the heart of a network — to small and mid-sized internet service providers (ISPs). The barrier was not the hardware; it was that these ISPs already bought the manufacturer's passive infrastructure but sourced their active gear from competitors. The engagement was a Design Sprint to design and validate a new commercial program — a full-service program — that would package the active equipment with extended financing, a network pre-project, provisioning software, and training. I facilitated the sprint and led two rounds of validation with real ISP buyers.
 
 ---
 
 ## 1. Context
 
-**The product context.** The manufacturer supplied both passive (cabling, connectors, termination boxes) and active (OLT, ONU) fiber equipment to ISPs across Brazil. Its passive products were widely adopted; its active electronics were not. The "Full Service" program was the commercial answer: rather than selling a box, sell a *program* — all the equipment a provider needs to expand its network, financed over 24 months (with a 2-month grace period), accompanied by a network pre-project, a preliminary budget, provisioning-and-registration software, and on-site training.
+**The product context.** The manufacturer supplied both passive (cabling, connectors, termination hardware) and active (network electronics) equipment to ISPs. Its passive products were widely adopted; its active electronics were not. The full-service program was the commercial answer: rather than selling a box, sell a *program* — all the equipment a provider needs to expand its network, financed under extended financing terms, accompanied by a network pre-project, a preliminary budget, provisioning-and-registration software, and on-site training.
 
-**The business challenge.** Small and mid-sized ISPs are conservative buyers. They buy on two signals: **peer reference** ("which equipment do other providers I trust already run?") and **price**. The manufacturer's active equipment had neither in its favour — it was perceived as priced above the market average, and ISPs had few peers to vouch for it. The Full Service program was a bet that a *commercial wrapper* — financing, network valuation, enablement — could move providers that the product's features alone could not.
+**The business challenge.** Small and mid-sized ISPs are conservative buyers. They buy on two signals: **peer reference** ("which equipment do other providers I trust already run?") and **price**. The manufacturer's active equipment led with neither — it was a relative newcomer in a price-sensitive category, and ISPs had few peers to vouch for it. The full-service program was a bet that a *commercial wrapper* — financing, network valuation, enablement — could move providers that the product's features alone could not.
 
 **The engagement.** A Design Sprint to define the program and design the artifacts that would carry it to market (a landing page and a companion app), followed by two structured rounds of validation with the actual decision-makers: ISP owner-operators.
 
@@ -45,10 +45,10 @@ Built the persona and screening criteria, ran the recruitment funnel, designed t
 ## 3. Method
 
 **Design Sprint (GV methodology).**
-The sprint mapped the buyer's journey for the Full Service program, focusing the validation on its earliest, hardest stages — *Awareness* and *Consideration*: getting a skeptical ISP to encounter the program, understand it, and engage with a pre-sale. The team diverged on how the program could be presented and sold, decided on the strongest direction, and built two testable prototypes: a **landing page** for the program and a **companion app** carrying the functions tied to the buyers' biggest pain points.
+The sprint mapped the buyer's journey for the full-service program, focusing the validation on its earliest, hardest stages — *Awareness* and *Consideration*: getting a skeptical ISP to encounter the program, understand it, and engage with a pre-sale. The team diverged on how the program could be presented and sold, decided on the strongest direction, and built two testable prototypes: a **landing page** for the program and a **companion app** carrying the functions tied to the buyers' biggest pain points.
 
 **Persona and screening.**
-A primary persona was developed to anchor recruitment — an ISP owner-operator (the team named him "Rudnei") with 5,000–10,000 subscribers, an imminent network expansion, an existing relationship as a buyer of the manufacturer's *passive* products, and an approved credit profile. Four screening criteria operationalized it: no history of problems with their current optical line terminal, 5,000–10,000 subscribers, an imminent network expansion (verified against purchase history), and credit pre-approval for the program.
+A primary persona was developed to anchor recruitment — an ISP owner-operator (the team named him "Rudnei") with 5,000–10,000 subscribers, an imminent network expansion, an existing relationship as a buyer of the manufacturer's *passive* products, and an approved credit profile. Four screening criteria operationalized it: no history of problems with their current active equipment, 5,000–10,000 subscribers, an imminent network expansion (verified against purchase history), and credit pre-approval for the program.
 
 **Recruitment funnel.**
 A screening-and-registration form was circulated to national ISP WhatsApp groups, with help from two key account managers and an ISP owner who had taken part in the sprint itself. The form drew **70 ISP signups**. From these, **20 were contacted** and **8 were interviewed** across two days (July 2–3, 2019); the remainder either could not align schedules or did not respond.
@@ -61,23 +61,23 @@ The program had to work across different paths to purchase, so validation was de
 - **J4 — Relationship visit:** recently active buyers join the same factory visit; the validation criterion is their relationship perception and likelihood of acquiring the manufacturer's equipment on their next purchase.
 
 **Two validation rounds.**
-Round 1 tested the digital prototypes (landing page + app) through the interviews. Round 2 was an experiential test: a guided **factory open-house** in Curitiba (August 2, 2019) — a 13-station, full-day route built as a sales-conversion environment. The sprint formally closed on August 9, 2019.
+Round 1 tested the digital prototypes (landing page + app) through the interviews. Round 2 was an experiential test: a guided **factory open-house** (August 2, 2019) — a 13-station, full-day route built as a sales-conversion environment. The sprint formally closed on August 9, 2019.
 
 ---
 
 ## 4. Analysis and Insights
 
 **Insight 1 — The product was not the obstacle; the *reasons to trust it* were.**
-Across the interviews, ISPs were not rejecting the active equipment on its merits — most had never run it. They didn't buy it because they had no peer references for it and perceived its price as above market. Since ISP purchasing decisions hinge on peer indication and price, the equipment failed on the two signals that actually drive the sale. This reframed the problem: the program could not win on equipment features; it had to win on the *commercial model* around the equipment.
+Across the interviews, ISPs were not rejecting the active equipment on its merits — most had never run it. They didn't buy it because they had no peer references for it, and because price weighs heavily in this market. Since ISP purchasing decisions hinge on peer indication and price, the equipment lacked traction on the two signals that actually drive the sale. This reframed the problem: the program could not win on equipment features; it had to win on the *commercial model* around the equipment.
 
 **Insight 2 — The value that moved buyers was financing, network valuation, and training — not specs.**
-The advantages providers responded to were consistently the wrapper, not the box: 24-month **facilitated financing** (the single most-cited advantage), **network valuation** — framing the upgrade as something that makes the ISP itself more sellable as a business — and **training**, especially valuable to providers in regions with a shortage of skilled labour. The pre-project (planning a provider's expansion for them) resonated most with ISPs facing technical or geographic complexity. The program's value proposition needed to lead with these, not with the equipment.
+The advantages providers responded to were consistently the wrapper, not the box: **facilitated financing** on extended terms (the single most-cited advantage), **network valuation** — framing the upgrade as something that makes the ISP itself more sellable as a business — and **training**, especially valuable to providers in regions with a shortage of skilled labour. The pre-project (planning a provider's expansion for them) resonated most with ISPs facing technical or geographic complexity. The program's value proposition needed to lead with these, not with the equipment.
 
 **Insight 3 — Asking B2B buyers for financial data on a web form was a trust mismatch.**
 The landing-page test surfaced a concrete friction: owners were uncomfortable entering financing and financial data into a web form, and several found the form too long for a first encounter. They preferred to share that information through an established channel — a call, email, or WhatsApp with a known account manager — *before* a formal step. The digital self-service path (J1) had to hand off to a human relationship earlier than the original design assumed; the app and landing page were coordination and presentation tools, not closing tools.
 
 **Insight 4 — The factory visit converted where the website could not.**
-The pre-validation research showed that what most interested prospective buyers was seeing the factory (≈82%), new products (≈81%), workshops (≈64%), and meeting the people behind the equipment (≈60%). The open-house validated this directly: standing inside the operation gave the abstract "Full Service" program a concrete, trustworthy form. One participant's words captured the shift — *"we stopped being a statistic, a registration number."* The visit manufactured exactly the peer-and-trust signal the equipment lacked on a spec sheet.
+The pre-validation research showed a strong majority interest in seeing the factory, new products, workshops, and meeting the people behind the equipment. The open-house validated this directly: standing inside the operation gave the abstract full-service program a concrete, trustworthy form. One participant's words captured the shift — *"we stopped being a statistic, a registration number."* The visit manufactured exactly the peer-and-trust signal the equipment lacked on a spec sheet.
 
 ---
 
@@ -86,14 +86,14 @@ The pre-validation research showed that what most interested prospective buyers 
 **Deliverables produced:**
 - Design Sprint facilitation (5-day workshop) with the commercial team and KAMs
 - Buyer persona and four-criterion screening model
-- Two interactive prototypes: a **landing page** for the Full Service program and a **companion app**
+- Two interactive prototypes: a **landing page** for the full-service program and a **companion app**
 - Recruitment-and-screening instrument (national ISP outreach)
 - Four-journey validation design (self-service, KAM-assisted, factory-visit-for-sale, relationship visit)
 - Validation interview guide and synthesized **validation report** (two rounds)
 - A 13-station guided **factory open-house** route, run as an experiential sales-conversion test (August 2, 2019)
 
 **Outcomes:**
-- The Full Service program concept was validated across two rounds with real ISP buyers, and the validation **reshaped its value proposition** — moving the emphasis from active-equipment features to financing, network valuation, and training.
+- The full-service program concept was validated across two rounds with real ISP buyers, and the validation **reshaped its value proposition** — moving the emphasis from active-equipment features to financing, network valuation, and training.
 - The validation also corrected the program's *path to purchase*: digital self-service had to defer to a human relationship earlier than first designed, because B2B buyers would not commit financial detail to a cold web form.
 - The factory open-house format was validated as a conversion environment and refined through field observation (group size, timing, the equipment-presentation segment, and the experiential "instagrammable" staging amid the cable reels, which participants shared in their own ISP communities — itself a peer-reference signal).
 
