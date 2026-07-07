@@ -7,6 +7,8 @@ primary_role: UX Designer / Design Sprint Facilitator
 secondary_roles:
   - UX Researcher (validation interviews)
 methods:
+  - Stakeholder interviews
+  - Field research (industry trade fair)
   - Design Sprint facilitation (GV 5-day)
   - Prototype design (landing page + mobile app)
   - Persona development
@@ -44,7 +46,10 @@ Built the persona and screening criteria, ran the recruitment funnel, designed t
 
 ## 3. Method
 
-**Design Sprint (GV methodology).**
+**Pre-sprint research.**
+Before the sprint, I ran stakeholder interviews with the manufacturer's commercial team (May 23, 2019) to surface how KAMs currently sold active equipment and where those conversations stalled, then attended Abrint — a national ISP industry trade fair in São Paulo (June 5, 2019) — as field research, observing how competing providers pitched equipment and financing to the same buyer audience the program would target.
+
+**Design Sprint (GV methodology, June 17-19, 2019).**
 The sprint mapped the buyer's journey for the full-service program, focusing the validation on its earliest, hardest stages — *Awareness* and *Consideration*: getting a skeptical ISP to encounter the program, understand it, and engage with a pre-sale. The team diverged on how the program could be presented and sold, decided on the strongest direction, and built two testable prototypes: a **landing page** for the program and a **companion app** carrying the functions tied to the buyers' biggest pain points.
 
 **Persona and screening.**
@@ -61,7 +66,7 @@ The program had to work across different paths to purchase, so validation was de
 - **J4 — Relationship visit:** recently active buyers join the same factory visit; the validation criterion is their relationship perception and likelihood of acquiring the manufacturer's equipment on their next purchase.
 
 **Two validation rounds.**
-Round 1 tested the digital prototypes (landing page + app) through the interviews. Round 2 was an experiential test: a guided **factory open-house** (August 2, 2019) — a 13-station, full-day route built as a sales-conversion environment. The sprint formally closed on August 9, 2019.
+Round 1 tested the digital prototypes (landing page + app) through the interviews. Between rounds, the team returned to the factory for a technical planning visit (July 10, 2019) to gather the observations needed to design the second phase, followed by a planning meeting at the manufacturer's offices (July 12, 2019) to define the visit route for round 2 — internal preparation, not customer-facing validation. Round 2 was an experiential test: a guided **factory open-house** (August 2, 2019) — a 13-station, full-day route built as a sales-conversion environment. The sprint formally closed on August 9, 2019.
 
 ---
 
@@ -97,7 +102,7 @@ The pre-validation research showed a strong majority interest in seeing the fact
 - The validation also corrected the program's *path to purchase*: digital self-service had to defer to a human relationship earlier than first designed, because B2B buyers would not commit financial detail to a cold web form.
 - The factory open-house format was validated as a conversion environment and refined through field observation (group size, timing, the equipment-presentation segment, and the experiential "instagrammable" staging amid the cable reels, which participants shared in their own ISP communities — itself a peer-reference signal).
 
-*This case documents work through the close of the Design Sprint and its two validation rounds (August 2019). Longer-term commercial results of the program are outside the scope of this engagement and are not claimed here.*
+*This case documents work from the initial stakeholder interviews (May 2019) through the close of the Design Sprint and its two validation rounds (August 2019). Longer-term commercial results of the program are outside the scope of this engagement and are not claimed here.*
 
 ---
 
