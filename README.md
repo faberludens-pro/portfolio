@@ -1,6 +1,6 @@
 # Gunther Eisen (Gonçalo Ferraz) — UX Portfolio
 
-10+ years of UX practice. I work at the intersection of research, strategy, and design — helping product teams understand what users actually need, and why the current experience falls short of that.
+UX practice since 2001. I work at the intersection of research, strategy, and design — helping product teams understand what users actually need, and why the current experience falls short of that.
 
 My work spans qualitative and quantitative research, information architecture, usability evaluation, and product strategy. I have led engagements at principal level for B2B SaaS platforms, legal systems, web hosting products, health tech, and financial services — working embedded with product teams and as an independent consultant for digital agencies.
 
@@ -25,7 +25,7 @@ The case studies here are anonymized. They document the problem, the method, the
 | [Hearing Health Newsletter UX Strategy](hearing-health-newsletter-ux-strategy-2026-03.md) | Hearing Health / Medical Content | 2026 | Principal UX Strategist |
 | [Hearing Health Website UX Audit](hearing-health-website-ux-audit-2026-03.md) | Hearing Health / Consumer Website | 2026 | Senior UX Auditor / Consultant |
 | [AI-Augmented UX Practice](ai-augmented-ux-practice-2026.md) | Practice Development / AI Workflow | 2026 | Practice Architect / AI Workflow Engineer |
-| [AI Practice Evidence Log](ai-practice.md) | Practice Development / AI Workflow | 2026 | Practice Architect / AI Workflow Engineer |
+| [AI Practice Evidence Log](ai-practice-digest.md) | Practice Development / AI Workflow | 2026 | Practice Architect / AI Workflow Engineer |
 
 ---
 
