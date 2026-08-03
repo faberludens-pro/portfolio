@@ -1,6 +1,6 @@
 # Gunther Eisen (Gonçalo Ferraz) — UX Portfolio
 
-UX practice since 2001. I work at the intersection of research, strategy, and design — helping product teams understand what users actually need, and why the current experience falls short of that.
+UX practice since 2004. I work at the intersection of research, strategy, and design — helping product teams understand what users actually need, and why the current experience falls short of that.
 
 My work spans qualitative and quantitative research, information architecture, usability evaluation, and product strategy. I have led engagements at principal level for B2B SaaS platforms, legal systems, web hosting products, health tech, and financial services — working embedded with product teams and as an independent consultant for digital agencies.
 
