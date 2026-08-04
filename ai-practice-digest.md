@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **365 documented sessions** · **examples shown:** 18, drawn from 29 May – 31 July 2026
+**Period covered:** March–August 2026 · **370 documented sessions** · **examples shown:** 18, drawn from 29 May – 31 July 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -47,7 +47,7 @@ A specialist agent roster with governed handoffs, custom MCP servers, per-agent 
 - **Knowledge base domain audit via live database query and batch repair** — Eight weeks of misfiled knowledge corrected in under 15 minutes; silent failure mode closed. *(Jun 2026)*
 - **Daily-intel pipeline migrated to manual-only; feed registry updated via SQLite** — Intelligence pipeline preserved under new cost structure; stale feeds eliminated without MCP dependency; zero-cost cron surface confirmed. *(Jun 2026)*
 
-*45 further documented sessions in this area.*
+*46 further documented sessions in this area.*
 
 ### Catch what is wrong before it reaches the client
 
@@ -57,7 +57,7 @@ AI produces plausible work, and plausible is the dangerous failure mode — it s
 - **A change-approval gate asked to clear two files, and the four it actually found** — Prevented three sessions' worth of unrelated work being published under a single misdescribing commit message. *(Jul 2026)*
 - **Five parallel audit agents recovered 92 lost knowledge documents** — The store never reported itself as broken — it loaded, it answered, and it was wrong. *(Jul 2026)*
 
-*23 further documented sessions in this area.*
+*25 further documented sessions in this area.*
 
 ### Run all of it at a cost that survives contact with a finance team
 
@@ -67,7 +67,7 @@ Model selection treated as an architectural decision with a written routing stan
 - **Local model stack consolidated to two models** — Fixed a bug silently degrading every cron synthesis run; simplified the local model stack. *(May 2026)*
 - **Intelligence pipeline shifted from automated to deliberate** — 8 KB articles ingested, 25 chunks indexed; 2 crons disabled; 2 feeds swapped. *(Jun 2026)*
 
-*4 further documented sessions in this area.*
+*5 further documented sessions in this area.*
 
 ### Turn commercial pressure into a scope somebody can defend upstream
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*365 sessions recorded between 2026-03-06 and 2026-08-04; 94 of them logged but not written up. Regenerated from both sources on every update.*
+*370 sessions recorded between 2026-03-06 and 2026-08-04; 94 of them logged but not written up. Regenerated from both sources on every update.*
 
