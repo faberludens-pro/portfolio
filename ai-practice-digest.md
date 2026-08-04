@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **299 documented sessions** · **examples shown:** 18, drawn from 29 May – 31 July 2026
+**Period covered:** March–August 2026 · **365 documented sessions** · **examples shown:** 18, drawn from 29 May – 31 July 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -37,7 +37,7 @@ Prototypes rebuilt before the meeting they are for. A phase deck re-cut and depl
 - **Live client meeting UX support: Figma comment capture and real-time RBAC retrieval** — Decisions that would otherwise require a follow-up cycle were captured and locked in real time; the designer received actionable direction before the meeting ended. *(Jun 2026)*
 - **Real-time design session support for the connections page** — Zero post-meeting documentation lag — the specification was current the moment the meeting ended. *(Jun 2026)*
 
-*6 further documented sessions in this area.*
+*7 further documented sessions in this area.*
 
 ### Build the AI system that does the work, not just prompt one
 
@@ -47,7 +47,7 @@ A specialist agent roster with governed handoffs, custom MCP servers, per-agent 
 - **Knowledge base domain audit via live database query and batch repair** — Eight weeks of misfiled knowledge corrected in under 15 minutes; silent failure mode closed. *(Jun 2026)*
 - **Daily-intel pipeline migrated to manual-only; feed registry updated via SQLite** — Intelligence pipeline preserved under new cost structure; stale feeds eliminated without MCP dependency; zero-cost cron surface confirmed. *(Jun 2026)*
 
-*24 further documented sessions in this area.*
+*45 further documented sessions in this area.*
 
 ### Catch what is wrong before it reaches the client
 
@@ -57,7 +57,7 @@ AI produces plausible work, and plausible is the dangerous failure mode — it s
 - **A change-approval gate asked to clear two files, and the four it actually found** — Prevented three sessions' worth of unrelated work being published under a single misdescribing commit message. *(Jul 2026)*
 - **Five parallel audit agents recovered 92 lost knowledge documents** — The store never reported itself as broken — it loaded, it answered, and it was wrong. *(Jul 2026)*
 
-*19 further documented sessions in this area.*
+*23 further documented sessions in this area.*
 
 ### Run all of it at a cost that survives contact with a finance team
 
@@ -67,7 +67,7 @@ Model selection treated as an architectural decision with a written routing stan
 - **Local model stack consolidated to two models** — Fixed a bug silently degrading every cron synthesis run; simplified the local model stack. *(May 2026)*
 - **Intelligence pipeline shifted from automated to deliberate** — 8 KB articles ingested, 25 chunks indexed; 2 crons disabled; 2 feeds swapped. *(Jun 2026)*
 
-*2 further documented sessions in this area.*
+*4 further documented sessions in this area.*
 
 ### Turn commercial pressure into a scope somebody can defend upstream
 
@@ -77,7 +77,7 @@ Budget cuts, same-day proposal deadlines, an estimate that has to come down with
 - **UX Discovery quote drafted and QA'd before send, with pre-discovery findings included** — A client-facing UX Discovery quote with scope, deliverables, and a fixed investment figure; 3 pre-discovery findings delivered alongside the quote. *(Jul 2026)*
 - **A month's billable hours reconstructed from five sources, after the timer missed a third of them** — Recovered roughly ten hours of delivered-but-unrecorded work, and caught a rounding defect — a category subtotal disagreeing with the summary by eight minutes. *(Jul 2026)*
 
-*1 further documented session in this area.*
+*2 further documented sessions in this area.*
 
 ---
 
@@ -100,7 +100,7 @@ Budget cuts, same-day proposal deadlines, an estimate that has to come down with
 - **Environment:** Claude Code, Claude Agent SDK / subagents, Ollama (local inference), Perplexity
 - **Knowledge & retrieval:** Custom MCP servers, Supabase pgvector, Voyage AI embeddings, DuckDB / SQLite
 - **Delivery & infrastructure:** Cloudflare Workers / Pages, Python, Git / GitHub, launchd / cron automation, Figma, Excalidraw
-- **Document, media & analytics:** Docling / PyMuPDF / Pandoc, Whisper / pyannote diarisation, Matomo, Microsoft Graph / ClickUp connectors
+- **Document, media & analytics:** Docling / PyMuPDF / Pandoc, Whisper / pyannote diarisation, Microsoft Graph / ClickUp connectors
 
 ---
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*299 sessions recorded between 2026-03-06 and 2026-08-04; 121 of them logged but not written up. Regenerated from both sources on every update.*
+*365 sessions recorded between 2026-03-06 and 2026-08-04; 94 of them logged but not written up. Regenerated from both sources on every update.*
 
