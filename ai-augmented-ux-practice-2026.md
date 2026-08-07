@@ -21,7 +21,7 @@ impact: A solo UX consultancy redesigned as an AI-first operation — with a per
 |---|---|
 | **5+** simultaneous client products in active delivery | **Full IA phase** — 6 deliverables produced by agent chain under human review |
 | **45-minute** meeting transcript processed and logged in ~2 minutes | **24** cross-document inconsistencies caught by automated audit before client delivery |
-| **38+** specialist agents and skills built and maintained | **13** reusable process templates codified from practice knowledge |
+| **90+** specialist agents and skills built and maintained | **70+** reusable process templates codified from practice knowledge |
 
 ---
 
@@ -39,7 +39,7 @@ The centrepiece of the system is a **permanent AI workforce** — a structured r
 
 **Jakob** leads the UX department. He covers the full UX practice: information architecture, heuristic evaluation, UX writing, accessibility analysis, and user research. When a complete IA phase is needed, Jakob runs it — producing content inventory, taxonomy, screen tree, navigation model, task-flow diagrams, and developer handoff.
 
-**Tom** leads IT and process engineering. When a new task type arrives that has no established workflow, Tom researches it, designs the process, and documents it in a shared process library. More than twenty process templates now exist in that library, codified from what had previously been implicit, session-by-session re-explanation.
+**Tom** leads IT and process engineering. When a new task type arrives that has no established workflow, Tom researches it, designs the process, and documents it in a shared process library. More than seventy process templates now exist in that library, codified from what had previously been implicit, session-by-session re-explanation.
 
 **Aristotle** leads research and holds the QA function. He provides evidence-based analysis grounded in domain expertise — UX, organisational design, cognitive science — rather than LLM generalisation. He also runs quality audits before delivery: reviewing deliverables against defined criteria, diagnosing failures by root cause, and routing fixes to the responsible agent. His most significant intervention to date: a cross-document audit across nine IA deliverables that surfaced twenty-four inconsistencies — five of them critical — caused by cross-reference drift after late-stage additions to the screen inventory. All were resolved before the client saw the work.
 
@@ -81,4 +81,4 @@ A client engaging Faber-Ludens Pro is not working with a consultant who uses AI 
 
 In practice, this means: context is never lost, because the infrastructure maintains it. Deliverables are produced at a pace and in parallel that a solo practitioner could not otherwise sustain. Quality is enforced by a system with no fatigue and no conflict of interest, not by a single person reviewing their own work. And my attention — strategic direction, design judgement, client relationship, problem framing — is applied where it cannot be delegated.
 
-The system is documented and version-controlled at [github.com/faberludens-pro/ai-workflow-development](https://github.com/faberludens-pro/ai-workflow-development).
+The system is documented and version-controlled in a private repository — client work runs through it, so the source stays closed. Architecture, agent specifications and process templates can be walked through on request.
