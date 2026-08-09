@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **394 documented sessions** · **examples shown:** 18, drawn from 29 May – 31 July 2026
+**Period covered:** March–August 2026 · **395 documented sessions** · **examples shown:** 18, drawn from 29 May – 31 July 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*394 sessions recorded between 2026-03-06 and 2026-08-07; 105 of them logged but not written up. Regenerated from both sources on every update.*
+*395 sessions recorded between 2026-03-06 and 2026-08-09; 105 of them logged but not written up. Regenerated from both sources on every update.*
 
