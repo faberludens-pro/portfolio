@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **430 documented sessions** · **examples shown:** 18, drawn from 31 May – 12 August 2026
+**Period covered:** March–August 2026 · **433 documented sessions** · **examples shown:** 18, drawn from 31 May – 12 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -37,7 +37,7 @@ Prototypes rebuilt before the meeting they are for. A phase deck re-cut and depl
 - **Live client meeting UX support: Figma comment capture and real-time RBAC retrieval** — Decisions that would otherwise require a follow-up cycle were captured and locked in real time; the designer received actionable direction before the meeting ended. *(Jun 2026)*
 - **Real-time design session support for the connections page** — Zero post-meeting documentation lag — the specification was current the moment the meeting ended. *(Jun 2026)*
 
-*8 further documented sessions in this area.*
+*9 further documented sessions in this area.*
 
 ### Build the AI system that does the work, not just prompt one
 
@@ -57,7 +57,7 @@ AI produces plausible work, and plausible is the dangerous failure mode — it s
 - **A change-approval gate asked to clear two files, and the four it actually found** — Prevented three sessions' worth of unrelated work being published under a single misdescribing commit message. *(Jul 2026)*
 - **Five parallel audit agents recovered 92 lost knowledge documents** — The store never reported itself as broken — it loaded, it answered, and it was wrong. *(Jul 2026)*
 
-*38 further documented sessions in this area.*
+*39 further documented sessions in this area.*
 
 ### Run all of it at a cost that survives contact with a finance team
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*430 sessions recorded between 2026-03-06 and 2026-08-13; 108 of them logged but not written up. Regenerated from both sources on every update.*
+*433 sessions recorded between 2026-03-06 and 2026-08-13; 109 of them logged but not written up. Regenerated from both sources on every update.*
 
