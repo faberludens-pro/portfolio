@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **426 documented sessions** · **examples shown:** 18, drawn from 29 May – 31 July 2026
+**Period covered:** March–August 2026 · **429 documented sessions** · **examples shown:** 18, drawn from 31 May – 12 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -27,7 +27,7 @@ Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a com
 - **Role-specific design and development handoff packages authored from UX deliverables** — Turned a strategy-and-wireframe deliverable set into an actionable build brief for two disciplines in a single session. *(Jun 2026)*
 - **Phase A strategy deliverables synthesized from briefing materials** — Completed Phase A before a client presentation; all deliverables verified clean of restricted sponsor attribution before distribution. *(Jun 2026)*
 
-*11 further documented sessions in this area.*
+*12 further documented sessions in this area.*
 
 ### Deliver at the speed the conversation is actually moving
 
@@ -47,7 +47,7 @@ A specialist agent roster with governed handoffs, custom MCP servers, per-agent 
 - **Knowledge base domain audit via live database query and batch repair** — Eight weeks of misfiled knowledge corrected in under 15 minutes; silent failure mode closed. *(Jun 2026)*
 - **Daily-intel pipeline migrated to manual-only; feed registry updated via SQLite** — Intelligence pipeline preserved under new cost structure; stale feeds eliminated without MCP dependency; zero-cost cron surface confirmed. *(Jun 2026)*
 
-*49 further documented sessions in this area.*
+*50 further documented sessions in this area.*
 
 ### Catch what is wrong before it reaches the client
 
@@ -57,15 +57,15 @@ AI produces plausible work, and plausible is the dangerous failure mode — it s
 - **A change-approval gate asked to clear two files, and the four it actually found** — Prevented three sessions' worth of unrelated work being published under a single misdescribing commit message. *(Jul 2026)*
 - **Five parallel audit agents recovered 92 lost knowledge documents** — The store never reported itself as broken — it loaded, it answered, and it was wrong. *(Jul 2026)*
 
-*36 further documented sessions in this area.*
+*37 further documented sessions in this area.*
 
 ### Run all of it at a cost that survives contact with a finance team
 
 Model selection treated as an architectural decision with a written routing standard, not a runtime default. Metered API calls measured, then moved to local inference where quality allows. Context overhead audited the way anyone else would audit a cloud bill. The capability is worth nothing if it only works on someone else's budget.
 
 - **Completed billing-deadline migration: all automation defaults now on local models** — Met the billing deadline fifteen days early; preserved the metered path for quality-sensitive cases; closed a compliance risk class across the full automation stack. *(May 2026)*
-- **Local model stack consolidated to two models** — Fixed a bug silently degrading every cron synthesis run; simplified the local model stack. *(May 2026)*
 - **Intelligence pipeline shifted from automated to deliberate** — 8 KB articles ingested, 25 chunks indexed; 2 crons disabled; 2 feeds swapped. *(Jun 2026)*
+- **Wrap skill optimized to half token cost; orchestrator delegation harnesses added** — ~50% ongoing reduction per wrap call; delegation bypass made structurally impossible rather than relying on prose instructions. *(Jun 2026)*
 
 *5 further documented sessions in this area.*
 
@@ -74,10 +74,10 @@ Model selection treated as an architectural decision with a written routing stan
 Budget cuts, same-day proposal deadlines, an estimate that has to come down without the delivery quietly coming down with it. The useful move is usually to re-cut the question rather than shave the plan — and to put the sacrifice order in writing before anyone is under pressure to choose.
 
 - **A five-month UX proposal drafted, adversarially reviewed by an in-house agent, and delivered inside a same-day deadline** — Delivered on the requested day, six minutes inside it, with the strategy that differentiates the offer retained rather than given away. *(Jul 2026)*
+- **A second cut removed the horizon itself, and a knowledge-base gate held its ground** — Demonstrates that the practice's AI-assisted workflow enforces its own quality bar even under time pressure. *(Aug 2026)*
 - **UX Discovery quote drafted and QA'd before send, with pre-discovery findings included** — A client-facing UX Discovery quote with scope, deliverables, and a fixed investment figure; 3 pre-discovery findings delivered alongside the quote. *(Jul 2026)*
-- **A month's billable hours reconstructed from five sources, after the timer missed a third of them** — Recovered roughly ten hours of delivered-but-unrecorded work, and caught a rounding defect — a category subtotal disagreeing with the summary by eight minutes. *(Jul 2026)*
 
-*2 further documented sessions in this area.*
+*3 further documented sessions in this area.*
 
 ---
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*426 sessions recorded between 2026-03-06 and 2026-08-12; 115 of them logged but not written up. Regenerated from both sources on every update.*
+*429 sessions recorded between 2026-03-06 and 2026-08-13; 108 of them logged but not written up. Regenerated from both sources on every update.*
 
