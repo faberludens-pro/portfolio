@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **435 documented sessions** · **examples shown:** 18, drawn from 31 May – 12 August 2026
+**Period covered:** March–August 2026 · **438 documented sessions** · **examples shown:** 18, drawn from 31 May – 12 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -27,7 +27,7 @@ Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a com
 - **Role-specific design and development handoff packages authored from UX deliverables** — Turned a strategy-and-wireframe deliverable set into an actionable build brief for two disciplines in a single session. *(Jun 2026)*
 - **Phase A strategy deliverables synthesized from briefing materials** — Completed Phase A before a client presentation; all deliverables verified clean of restricted sponsor attribution before distribution. *(Jun 2026)*
 
-*12 further documented sessions in this area.*
+*13 further documented sessions in this area.*
 
 ### Deliver at the speed the conversation is actually moving
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*435 sessions recorded between 2026-03-06 and 2026-08-13; 110 of them logged but not written up. Regenerated from both sources on every update.*
+*438 sessions recorded between 2026-03-06 and 2026-08-14; 110 of them logged but not written up. Regenerated from both sources on every update.*
 
