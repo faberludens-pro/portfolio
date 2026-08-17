@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **451 documented sessions** · **examples shown:** 18, drawn from 31 May – 12 August 2026
+**Period covered:** March–August 2026 · **453 documented sessions** · **examples shown:** 18, drawn from 31 May – 12 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -25,7 +25,7 @@ Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a com
 
 - **Pivot PRD and Phase 4 backend spec authored and QA-gated** — Took a strategic pivot from decision to a build-ready, gap-checked specification in one session, catching four major spec gaps before any code was written. *(Jul 2026)*
 - **Role-specific design and development handoff packages authored from UX deliverables** — Turned a strategy-and-wireframe deliverable set into an actionable build brief for two disciplines in a single session. *(Jun 2026)*
-- **Phase A strategy deliverables synthesized from briefing materials** — Completed Phase A before a client presentation; all deliverables verified clean of restricted sponsor attribution before distribution. *(Jun 2026)*
+- **A copy specification re-derived from an accepted design, with the gaps named instead of guessed** — Unblocked a copywriter working against a holiday deadline without waiting on a design that was still in motion. *(Jul 2026)*
 
 *13 further documented sessions in this area.*
 
@@ -77,7 +77,7 @@ Budget cuts, same-day proposal deadlines, an estimate that has to come down with
 - **A second cut removed the horizon itself, and a knowledge-base gate held its ground** — Demonstrates that the practice's AI-assisted workflow enforces its own quality bar even under time pressure. *(Aug 2026)*
 - **UX Discovery quote drafted and QA'd before send, with pre-discovery findings included** — A client-facing UX Discovery quote with scope, deliverables, and a fixed investment figure; 3 pre-discovery findings delivered alongside the quote. *(Jul 2026)*
 
-*3 further documented sessions in this area.*
+*4 further documented sessions in this area.*
 
 ---
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*451 sessions recorded between 2026-03-06 and 2026-08-15; 114 of them logged but not written up. Regenerated from both sources on every update.*
+*453 sessions recorded between 2026-03-06 and 2026-08-17; 115 of them logged but not written up. Regenerated from both sources on every update.*
 
