@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **495 documented sessions** · **examples shown:** 18, drawn from 31 May – 12 August 2026
+**Period covered:** March–August 2026 · **497 documented sessions** · **examples shown:** 18, drawn from 31 May – 12 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -57,7 +57,7 @@ AI produces plausible work, and plausible is the dangerous failure mode — it s
 - **A change-approval gate asked to clear two files, and the four it actually found** — Prevented three sessions' worth of unrelated work being published under a single misdescribing commit message. *(Jul 2026)*
 - **Five parallel audit agents recovered 92 lost knowledge documents** — The store never reported itself as broken — it loaded, it answered, and it was wrong. *(Jul 2026)*
 
-*49 further documented sessions in this area.*
+*50 further documented sessions in this area.*
 
 ### Run all of it at a cost that survives contact with a finance team
 
@@ -100,7 +100,7 @@ Budget cuts, same-day proposal deadlines, an estimate that has to come down with
 - **Environment:** Claude Code, Claude Agent SDK / subagents, Ollama (local inference), Perplexity
 - **Knowledge & retrieval:** Custom MCP servers, Supabase pgvector, Voyage AI embeddings, DuckDB / SQLite
 - **Delivery & infrastructure:** Cloudflare Workers / Pages, Python, Git / GitHub, launchd / cron automation, Figma, Excalidraw
-- **Document, media & analytics:** Docling / PyMuPDF / Pandoc, Whisper / pyannote diarisation, Microsoft Graph / ClickUp connectors
+- **Document, media & analytics:** Docling / PyMuPDF / Pandoc, Whisper / pyannote diarisation, Firecrawl, Matomo, Microsoft Graph / ClickUp connectors
 
 ---
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*495 sessions recorded between 2026-03-06 and 2026-08-18; 123 of them logged but not written up. Regenerated from both sources on every update.*
+*497 sessions recorded between 2026-03-06 and 2026-08-19; 124 of them logged but not written up. Regenerated from both sources on every update.*
 
