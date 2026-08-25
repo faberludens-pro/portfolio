@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **542 documented sessions** · **examples shown:** 18, drawn from 31 May – 12 August 2026
+**Period covered:** March–August 2026 · **547 documented sessions** · **examples shown:** 18, drawn from 31 May – 20 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -24,8 +24,8 @@ a real fix.
 Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a competitor's live site, someone else's codebase — the input is never clean. The work is getting from that to one specification a designer can draw from, a developer can build from, and a client will sign, with the open questions named as questions instead of quietly guessed.
 
 - **Pivot PRD and Phase 4 backend spec authored and QA-gated** — Took a strategic pivot from decision to a build-ready, gap-checked specification in one session, catching four major spec gaps before any code was written. *(Jul 2026)*
-- **Role-specific design and development handoff packages authored from UX deliverables** — Turned a strategy-and-wireframe deliverable set into an actionable build brief for two disciplines in a single session. *(Jun 2026)*
 - **A copy specification re-derived from an accepted design, with the gaps named instead of guessed** — Unblocked a copywriter working against a holiday deadline without waiting on a design that was still in motion. *(Jul 2026)*
+- **A product definition reconstructed in reverse named the requirement nobody had asked for** — Surfaced a structural requirement that would otherwise have been discovered mid-design, when the screens depending on it were already drawn. *(Aug 2026)*
 
 *16 further documented sessions in this area.*
 
@@ -33,9 +33,9 @@ Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a com
 
 Prototypes rebuilt before the meeting they are for. A phase deck re-cut and deployed to a live URL with twenty minutes' notice. A specification updated in the room as the decision lands, rather than reconstructed from notes a day later. The gap being closed is between a decision and the artifact that records it.
 
-- **Phase D handoff presentation updated and deployed under time pressure** — Delivered a Phase D-accurate presentation artifact from a Phase A deck in under 20 minutes; no design work required — the structural pattern was already in the deck. *(Jun 2026)*
 - **Live client meeting UX support: Figma comment capture and real-time RBAC retrieval** — Decisions that would otherwise require a follow-up cycle were captured and locked in real time; the designer received actionable direction before the meeting ended. *(Jun 2026)*
 - **Real-time design session support for the connections page** — Zero post-meeting documentation lag — the specification was current the moment the meeting ended. *(Jun 2026)*
+- **A compressed delivery schedule recomputed against a fixed external deadline, grounded in two calendars** — Turned an unresolved scheduling discrepancy into a concrete, calendar-verified delivery plan the partner could immediately use to build a cross-team Gantt chart. *(Aug 2026)*
 
 *11 further documented sessions in this area.*
 
@@ -77,7 +77,7 @@ Budget cuts, same-day proposal deadlines, an estimate that has to come down with
 - **A second cut removed the horizon itself, and a knowledge-base gate held its ground** — Demonstrates that the practice's AI-assisted workflow enforces its own quality bar even under time pressure. *(Aug 2026)*
 - **UX Discovery quote drafted and QA'd before send, with pre-discovery findings included** — A client-facing UX Discovery quote with scope, deliverables, and a fixed investment figure; 3 pre-discovery findings delivered alongside the quote. *(Jul 2026)*
 
-*6 further documented sessions in this area.*
+*7 further documented sessions in this area.*
 
 ---
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*542 sessions recorded between 2026-03-06 and 2026-08-24; 138 of them logged but not written up. Regenerated from both sources on every update.*
+*547 sessions recorded between 2026-03-06 and 2026-08-25; 142 of them logged but not written up. Regenerated from both sources on every update.*
 
