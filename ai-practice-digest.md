@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **563 documented sessions** · **examples shown:** 18, drawn from 31 May – 20 August 2026
+**Period covered:** March–August 2026 · **569 documented sessions** · **examples shown:** 18, drawn from 31 May – 20 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -27,7 +27,7 @@ Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a com
 - **A copy specification re-derived from an accepted design, with the gaps named instead of guessed** — Unblocked a copywriter working against a holiday deadline without waiting on a design that was still in motion. *(Jul 2026)*
 - **A product definition reconstructed in reverse named the requirement nobody had asked for** — Surfaced a structural requirement that would otherwise have been discovered mid-design, when the screens depending on it were already drawn. *(Aug 2026)*
 
-*16 further documented sessions in this area.*
+*17 further documented sessions in this area.*
 
 ### Deliver at the speed the conversation is actually moving
 
@@ -57,7 +57,7 @@ AI produces plausible work, and plausible is the dangerous failure mode — it s
 - **A change-approval gate asked to clear two files, and the four it actually found** — Prevented three sessions' worth of unrelated work being published under a single misdescribing commit message. *(Jul 2026)*
 - **Five parallel audit agents recovered 92 lost knowledge documents** — The store never reported itself as broken — it loaded, it answered, and it was wrong. *(Jul 2026)*
 
-*60 further documented sessions in this area.*
+*61 further documented sessions in this area.*
 
 ### Run all of it at a cost that survives contact with a finance team
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*563 sessions recorded between 2026-03-06 and 2026-08-26; 147 of them logged but not written up. Regenerated from both sources on every update.*
+*569 sessions recorded between 2026-03-06 and 2026-08-26; 151 of them logged but not written up. Regenerated from both sources on every update.*
 
