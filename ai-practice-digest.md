@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **609 documented sessions** · **examples shown:** 18, drawn from 31 May – 20 August 2026
+**Period covered:** March–August 2026 · **612 documented sessions** · **examples shown:** 18, drawn from 31 May – 20 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -37,7 +37,7 @@ Prototypes rebuilt before the meeting they are for. A phase deck re-cut and depl
 - **A compressed delivery schedule recomputed against a fixed external deadline, grounded in two calendars** — Turned an unresolved scheduling discrepancy into a concrete, calendar-verified delivery plan the partner could immediately use to build a cross-team Gantt chart. *(Aug 2026)*
 - **Product-definition chain run end-to-end on a live clinic website** — Demonstrated the full definition-to-deploy chain on a live site while closing a real security exposure and a measurable local-SEO defect. *(Jun 2026)*
 
-*13 further documented sessions in this area.*
+*14 further documented sessions in this area.*
 
 ### Build the AI system that does the work, not just prompt one
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*609 sessions recorded between 2026-03-06 and 2026-08-27; 164 of them logged but not written up. Regenerated from both sources on every update.*
+*612 sessions recorded between 2026-03-06 and 2026-08-27; 165 of them logged but not written up. Regenerated from both sources on every update.*
 
