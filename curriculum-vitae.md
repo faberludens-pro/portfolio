@@ -154,16 +154,16 @@ Final project: *Graphical Interface for a VRML Editor* — an interactive three-
 ## Publications
 
 **Book Chapter**
-AMSTEL, F. M. C. V.; VASSAO, C. A.; **FERRAZ, G. B.** "Design Livre: Cannibalistic Interaction Design." In: Elena Maria Formia (Ed.). *Innovation in Design Education.* Torino: Umberto Allemandi & C., 2012, vol. 1, pp. 442–456.
+AMSTEL, F. M. C. V.; VASSÃO, C. A.; **FERRAZ, G. B.** "Design Livre: Cannibalistic Interaction Design." In: Elena Maria Formia (Ed.). *Innovation in Design Education: Proceedings of the Third International Forum of Design as a Process.* Turin: Umberto Allemandi & C., 2012, vol. 1, pp. 442–456. [(open access)](https://ris.utwente.nl/ws/files/5377994/Cannibalistic_IxD_Innovation_in_Design_Education.pdf)
 
-**W3C Brasil — Co-Author**
-**FERRAZ, G. B.** et al. *Cartilha de Acessibilidade na Web — Fascículo I.* W3C Brasil. [(link)](https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html)
+**W3C Brasil — Contributor and Reviewer**
+*Cartilha de Acessibilidade na Web — Fascículo I: Introdução.* W3C Brasil / NIC.br / CGI.br, São Paulo, 2013. Credited under *Revisão e Contribuição* as a member of the GT de Acessibilidade na Web. The reference primer on web accessibility in Brazilian Portuguese. [(HTML)](https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html) · [(PDF)](https://nic.br/media/docs/publicacoes/1/cartilha-w3cbr-acessibilidade-web-fasciculo-I.pdf)
 
 **Conference Paper**
-WALTER, Y.; MARAR, J. F.; ALENCAR, F.; FERRANTE, M.; **FERRAZ, G. B.** "Materiotecas: Project Guidelines for a Tool of Information and Inspiration." *2nd International Congress of Information Design,* São Paulo, 2005.
+WALTER, Y.; MARAR, J. F.; ALENCAR, F.; FERRANTE, M.; **FERRAZ, G. B.** "Materiotecas: An Information and Inspiration Tool — Project Guidelines." *2nd International Congress of Information Design / 1st InfoDesign Brasil,* São Paulo, 2005. Proceedings published by SBDI — Sociedade Brasileira de Design da Informação.
 
 **Conference Abstract**
-**FERRAZ, G. B.** et al. "Information Architecture for a Digital System for Selecting Materials and Manufacturing Processes." *7th Brazilian Congress of Research and Development in Design,* Curitiba, 2006.
+**FERRAZ, G. B.** et al. "Information Architecture for a Digital System for Selecting Materials and Manufacturing Processes." *7º Congresso Brasileiro de Pesquisa e Desenvolvimento em Design (P&D Design 2006),* Curitiba, November 2006.
 
 **Yearbook**
 **FERRAZ, G. B.** (contributor). *Almanaque 2010 — Interaction Design Yearbook.* Faber-Ludens, 2010.
@@ -220,7 +220,7 @@ Score: 955 out of 990
 The *concurso público* is Brazil's mandatory merit-based selection process for public sector appointments — a rigorously standardised examination, externally administered, with passage rates that in competitive areas fall below five percent of candidates. Success is recognised within Brazilian professional culture as a credential of verified competence, broadly analogous in status to passing a bar examination or a senior civil service examination in Anglo-American contexts.
 
 **W3C Brasil — National Web Accessibility Award Juror** *(2012)*
-Served on the judging panel for the *Todos na Web* national web accessibility award — a recognition of standing as a national expert in accessible design.
+Served on the judging panel for the **first edition** of the *Prêmio Nacional de Acessibilidade na Web — Todos na Web*, run by W3C Brasil — a recognition of standing as a national expert in accessible design. Juror, not recipient. [(award site)](http://premio.ceweb.br/2012/)
 
 ---
 
