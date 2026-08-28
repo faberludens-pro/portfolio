@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **619 documented sessions** · **examples shown:** 18, drawn from 31 May – 26 August 2026
+**Period covered:** March–August 2026 · **621 documented sessions** · **examples shown:** 18, drawn from 31 May – 26 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -47,7 +47,7 @@ A specialist agent roster with governed handoffs, custom MCP servers, per-agent 
 - **Daily-intel pipeline migrated to manual-only; feed registry updated via SQLite** — Intelligence pipeline preserved under new cost structure; stale feeds eliminated without MCP dependency; zero-cost cron surface confirmed. *(Jun 2026)*
 - **YouTube-to-TeamBrain pipeline built** — `transcript-synthesis.py` (new script); updated YouTube Transcript Tool pipeline in CLAUDE.md; 4 synthesis files from one video. *(Jun 2026)*
 
-*56 further documented sessions in this area.*
+*57 further documented sessions in this area.*
 
 ### Catch what is wrong before it reaches the client
 
@@ -57,7 +57,7 @@ AI produces plausible work, and plausible is the dangerous failure mode — it s
 - **A change-approval gate asked to clear two files, and the four it actually found** — Prevented three sessions' worth of unrelated work being published under a single misdescribing commit message. *(Jul 2026)*
 - **Five parallel audit agents recovered 92 lost knowledge documents** — The store never reported itself as broken — it loaded, it answered, and it was wrong. *(Jul 2026)*
 
-*64 further documented sessions in this area.*
+*65 further documented sessions in this area.*
 
 ### Run all of it at a cost that survives contact with a finance team
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*619 sessions recorded between 2026-03-06 and 2026-08-28; 168 of them logged but not written up. Regenerated from both sources on every update.*
+*621 sessions recorded between 2026-03-06 and 2026-08-28; 163 of them logged but not written up. Regenerated from both sources on every update.*
 
