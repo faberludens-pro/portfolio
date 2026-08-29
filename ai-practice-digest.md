@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **640 documented sessions** · **examples shown:** 18, drawn from 31 May – 28 August 2026
+**Period covered:** March–August 2026 · **644 documented sessions** · **examples shown:** 18, drawn from 31 May – 28 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -47,7 +47,7 @@ A specialist agent roster with governed handoffs, custom MCP servers, per-agent 
 - **Daily-intel pipeline migrated to manual-only; feed registry updated via SQLite** — Intelligence pipeline preserved under new cost structure; stale feeds eliminated without MCP dependency; zero-cost cron surface confirmed. *(Jun 2026)*
 - **YouTube-to-TeamBrain pipeline built** — `transcript-synthesis.py` (new script); updated YouTube Transcript Tool pipeline in CLAUDE.md; 4 synthesis files from one video. *(Jun 2026)*
 
-*58 further documented sessions in this area.*
+*59 further documented sessions in this area.*
 
 ### Catch what is wrong before it reaches the client
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*640 sessions recorded between 2026-03-06 and 2026-08-29; 171 of them logged but not written up. Regenerated from both sources on every update.*
+*644 sessions recorded between 2026-03-06 and 2026-08-29; 173 of them logged but not written up. Regenerated from both sources on every update.*
 
