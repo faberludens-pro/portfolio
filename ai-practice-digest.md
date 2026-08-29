@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **639 documented sessions** · **examples shown:** 18, drawn from 31 May – 28 August 2026
+**Period covered:** March–August 2026 · **640 documented sessions** · **examples shown:** 18, drawn from 31 May – 28 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -47,7 +47,7 @@ A specialist agent roster with governed handoffs, custom MCP servers, per-agent 
 - **Daily-intel pipeline migrated to manual-only; feed registry updated via SQLite** — Intelligence pipeline preserved under new cost structure; stale feeds eliminated without MCP dependency; zero-cost cron surface confirmed. *(Jun 2026)*
 - **YouTube-to-TeamBrain pipeline built** — `transcript-synthesis.py` (new script); updated YouTube Transcript Tool pipeline in CLAUDE.md; 4 synthesis files from one video. *(Jun 2026)*
 
-*57 further documented sessions in this area.*
+*58 further documented sessions in this area.*
 
 ### Catch what is wrong before it reaches the client
 
@@ -65,7 +65,7 @@ Model selection treated as an architectural decision with a written routing stan
 
 - **Completed billing-deadline migration: all automation defaults now on local models** — Met the billing deadline fifteen days early; preserved the metered path for quality-sensitive cases; closed a compliance risk class across the full automation stack. *(May 2026)*
 - **Intelligence pipeline shifted from automated to deliberate** — 8 KB articles ingested, 25 chunks indexed; 2 crons disabled; 2 feeds swapped. *(Jun 2026)*
-- **Wrap skill optimized to half token cost; orchestrator delegation harnesses added** — ~50% ongoing reduction per wrap call; delegation bypass made structurally impossible rather than relying on prose instructions. *(Jun 2026)*
+- **A dead auth path became a governed subagent, verified end to end** — Restored a broken capability and hardened it against two silent-failure modes (unverified billing state. *(Aug 2026)*
 
 *6 further documented sessions in this area.*
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*639 sessions recorded between 2026-03-06 and 2026-08-28; 171 of them logged but not written up. Regenerated from both sources on every update.*
+*640 sessions recorded between 2026-03-06 and 2026-08-29; 171 of them logged but not written up. Regenerated from both sources on every update.*
 
