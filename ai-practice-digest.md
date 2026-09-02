@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–August 2026 · **651 documented sessions** · **examples shown:** 18, drawn from 31 May – 28 August 2026
+**Period covered:** March–September 2026 · **676 documented sessions** · **examples shown:** 18, drawn from 31 May – 31 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -34,18 +34,18 @@ Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a com
 Prototypes rebuilt before the meeting they are for. A phase deck re-cut and deployed to a live URL with twenty minutes' notice. A specification updated in the room as the decision lands, rather than reconstructed from notes a day later. The gap being closed is between a decision and the artifact that records it.
 
 - **Live client meeting UX support: Figma comment capture and real-time RBAC retrieval** — Decisions that would otherwise require a follow-up cycle were captured and locked in real time; the designer received actionable direction before the meeting ended. *(Jun 2026)*
+- **A retrieval corpus assembled from documents that describe a product the client had already killed** — A retrieval system inherits the authority of whatever it is fed and reports none of its provenance. *(Aug 2026)*
 - **A compressed delivery schedule recomputed against a fixed external deadline, grounded in two calendars** — Turned an unresolved scheduling discrepancy into a concrete, calendar-verified delivery plan the partner could immediately use to build a cross-team Gantt chart. *(Aug 2026)*
-- **A read-only production query answered in minutes a content question that had been open for six days** — Converted a predicted defect into a confirmed one before a launch freeze, and measured a commercial assumption. *(Aug 2026)*
 
-*17 further documented sessions in this area.*
+*18 further documented sessions in this area.*
 
 ### Build the AI system that does the work, not just prompt one
 
 A specialist agent roster with governed handoffs, custom MCP servers, per-agent vector knowledge bases, a spec-to-code pipeline that files its own questions as tickets, retrieval and memory hooks, observability on every tool call.
 
 - **Knowledge base domain audit via live database query and batch repair** — Eight weeks of misfiled knowledge corrected in under 15 minutes; silent failure mode closed. *(Jun 2026)*
-- **Daily-intel pipeline migrated to manual-only; feed registry updated via SQLite** — Intelligence pipeline preserved under new cost structure; stale feeds eliminated without MCP dependency; zero-cost cron surface confirmed. *(Jun 2026)*
 - **YouTube-to-TeamBrain pipeline built** — `transcript-synthesis.py` (new script); updated YouTube Transcript Tool pipeline in CLAUDE.md; 4 synthesis files from one video. *(Jun 2026)*
+- **MCP roster trimmed from 16 to 1 always-on server** — Session context overhead reduced structurally; token cost impact measurable from the next billing cycle. *(Jun 2026)*
 
 *59 further documented sessions in this area.*
 
@@ -57,15 +57,15 @@ AI produces plausible work, and plausible is the dangerous failure mode — it s
 - **A change-approval gate asked to clear two files, and the four it actually found** — Prevented three sessions' worth of unrelated work being published under a single misdescribing commit message. *(Jul 2026)*
 - **Five parallel audit agents recovered 92 lost knowledge documents** — The store never reported itself as broken — it loaded, it answered, and it was wrong. *(Jul 2026)*
 
-*67 further documented sessions in this area.*
+*68 further documented sessions in this area.*
 
 ### Run all of it at a cost that survives contact with a finance team
 
 Model selection treated as an architectural decision with a written routing standard, not a runtime default. Metered API calls measured, then moved to local inference where quality allows. Context overhead audited the way anyone else would audit a cloud bill. The capability is worth nothing if it only works on someone else's budget.
 
 - **Completed billing-deadline migration: all automation defaults now on local models** — Met the billing deadline fifteen days early; preserved the metered path for quality-sensitive cases; closed a compliance risk class across the full automation stack. *(May 2026)*
-- **Intelligence pipeline shifted from automated to deliberate** — 8 KB articles ingested, 25 chunks indexed; 2 crons disabled; 2 feeds swapped. *(Jun 2026)*
 - **A dead auth path became a governed subagent, verified end to end** — Restored a broken capability and hardened it against two silent-failure modes (unverified billing state. *(Aug 2026)*
+- **A weekly formation cycle ran in-session when its usual backend had no credentials, plus a comparison harness for the local fallback** — A credential failure didn't cost a formation cycle, and the fallback path now has an evidence trail instead of being trusted blind. *(Aug 2026)*
 
 *6 further documented sessions in this area.*
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*651 sessions recorded between 2026-03-06 and 2026-08-30; 175 of them logged but not written up. Regenerated from both sources on every update.*
+*676 sessions recorded between 2026-03-06 and 2026-09-02; 188 of them logged but not written up. Regenerated from both sources on every update.*
 
