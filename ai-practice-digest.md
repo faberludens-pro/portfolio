@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–September 2026 · **698 documented sessions** · **examples shown:** 18, drawn from 31 May – 31 August 2026
+**Period covered:** March–September 2026 · **704 documented sessions** · **examples shown:** 18, drawn from 31 May – 31 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -47,7 +47,7 @@ A specialist agent roster with governed handoffs, custom MCP servers, per-agent 
 - **Three specialists ruled on their own records, and the restore point caught what the repair destroyed** — Cleared an eight-day write freeze on a production knowledge base with every repair verified by an instrument independent of the one that made it. *(Aug 2026)*
 - **A fabricated report caught by reading the tool's own transcript, and a corrected one still needing a second correction** — A screen-recorded product tour was handed to a local coding-agent CLI wrapping a video-capable model. *(Aug 2026)*
 
-*60 further documented sessions in this area.*
+*61 further documented sessions in this area.*
 
 ### Catch what is wrong before it reaches the client
 
@@ -57,7 +57,7 @@ AI produces plausible work, and plausible is the dangerous failure mode — it s
 - **A change-approval gate asked to clear two files, and the four it actually found** — Prevented three sessions' worth of unrelated work being published under a single misdescribing commit message. *(Jul 2026)*
 - **Five parallel audit agents recovered 92 lost knowledge documents** — The store never reported itself as broken — it loaded, it answered, and it was wrong. *(Jul 2026)*
 
-*70 further documented sessions in this area.*
+*72 further documented sessions in this area.*
 
 ### Run all of it at a cost that survives contact with a finance team
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*698 sessions recorded between 2026-03-06 and 2026-09-08; 203 of them logged but not written up. Regenerated from both sources on every update.*
+*704 sessions recorded between 2026-03-06 and 2026-09-08; 193 of them logged but not written up. Regenerated from both sources on every update.*
 
