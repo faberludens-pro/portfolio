@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–September 2026 · **710 documented sessions** · **examples shown:** 18, drawn from 31 May – 31 August 2026
+**Period covered:** March–September 2026 · **715 documented sessions** · **examples shown:** 18, drawn from 31 May – 31 August 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -33,9 +33,9 @@ Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a com
 
 Prototypes rebuilt before the meeting they are for. A phase deck re-cut and deployed to a live URL with twenty minutes' notice. A specification updated in the room as the decision lands, rather than reconstructed from notes a day later. The gap being closed is between a decision and the artifact that records it.
 
-- **Live client meeting UX support: Figma comment capture and real-time RBAC retrieval** — Decisions that would otherwise require a follow-up cycle were captured and locked in real time; the designer received actionable direction before the meeting ended. *(Jun 2026)*
 - **A retrieval corpus assembled from documents that describe a product the client had already killed** — A retrieval system inherits the authority of whatever it is fed and reports none of its provenance. *(Aug 2026)*
 - **A compressed delivery schedule recomputed against a fixed external deadline, grounded in two calendars** — Turned an unresolved scheduling discrepancy into a concrete, calendar-verified delivery plan the partner could immediately use to build a cross-team Gantt chart. *(Aug 2026)*
+- **A read-only production query answered in minutes a content question that had been open for six days** — Converted a predicted defect into a confirmed one before a launch freeze, and measured a commercial assumption. *(Aug 2026)*
 
 *18 further documented sessions in this area.*
 
@@ -43,11 +43,11 @@ Prototypes rebuilt before the meeting they are for. A phase deck re-cut and depl
 
 A specialist agent roster with governed handoffs, custom MCP servers, per-agent vector knowledge bases, a spec-to-code pipeline that files its own questions as tickets, retrieval and memory hooks, observability on every tool call.
 
-- **MCP roster trimmed from 16 to 1 always-on server** — Session context overhead reduced structurally; token cost impact measurable from the next billing cycle. *(Jun 2026)*
 - **Three specialists ruled on their own records, and the restore point caught what the repair destroyed** — Cleared an eight-day write freeze on a production knowledge base with every repair verified by an instrument independent of the one that made it. *(Aug 2026)*
 - **A fabricated report caught by reading the tool's own transcript, and a corrected one still needing a second correction** — A screen-recorded product tour was handed to a local coding-agent CLI wrapping a video-capable model. *(Aug 2026)*
+- **An unbounded audit delegated to a higher model tier, then checked rather than believed** — A confidently-wrong finding costs more than a missed one. *(Aug 2026)*
 
-*61 further documented sessions in this area.*
+*62 further documented sessions in this area.*
 
 ### Catch what is wrong before it reaches the client
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*710 sessions recorded between 2026-03-06 and 2026-09-08; 198 of them logged but not written up. Regenerated from both sources on every update.*
+*715 sessions recorded between 2026-03-06 and 2026-09-12; 201 of them logged but not written up. Regenerated from both sources on every update.*
 
