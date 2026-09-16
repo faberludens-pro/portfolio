@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–September 2026 · **717 documented sessions** · **examples shown:** 18, drawn from 31 May – 31 August 2026
+**Period covered:** March–September 2026 · **745 documented sessions** · **examples shown:** 18, drawn from 31 May – 3 September 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -34,20 +34,20 @@ Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a com
 Prototypes rebuilt before the meeting they are for. A phase deck re-cut and deployed to a live URL with twenty minutes' notice. A specification updated in the room as the decision lands, rather than reconstructed from notes a day later. The gap being closed is between a decision and the artifact that records it.
 
 - **A retrieval corpus assembled from documents that describe a product the client had already killed** — A retrieval system inherits the authority of whatever it is fed and reports none of its provenance. *(Aug 2026)*
-- **A compressed delivery schedule recomputed against a fixed external deadline, grounded in two calendars** — Turned an unresolved scheduling discrepancy into a concrete, calendar-verified delivery plan the partner could immediately use to build a cross-team Gantt chart. *(Aug 2026)*
+- **A compressed delivery schedule recomputed against a fixed external deadline, grounded in two calendars** — A phase-by-phase delivery schedule with two named milestones, delivered in three formats. *(Aug 2026)*
 - **A read-only production query answered in minutes a content question that had been open for six days** — Converted a predicted defect into a confirmed one before a launch freeze, and measured a commercial assumption. *(Aug 2026)*
 
-*18 further documented sessions in this area.*
+*19 further documented sessions in this area.*
 
 ### Build the AI system that does the work, not just prompt one
 
 A specialist agent roster with governed handoffs, custom MCP servers, per-agent vector knowledge bases, a spec-to-code pipeline that files its own questions as tickets, retrieval and memory hooks, observability on every tool call.
 
+- **An inspection standard met a live product, and only the guarantee enforced by structure survived the hour** — 41 findings, 4 of them shared across two models; a cold third pass reproduced 40 of the 41; three raters agreed within ±0.09. *(Aug 2026)*
 - **Three specialists ruled on their own records, and the restore point caught what the repair destroyed** — Cleared an eight-day write freeze on a production knowledge base with every repair verified by an instrument independent of the one that made it. *(Aug 2026)*
 - **A fabricated report caught by reading the tool's own transcript, and a corrected one still needing a second correction** — A screen-recorded product tour was handed to a local coding-agent CLI wrapping a video-capable model. *(Aug 2026)*
-- **An unbounded audit delegated to a higher model tier, then checked rather than believed** — A confidently-wrong finding costs more than a missed one. *(Aug 2026)*
 
-*62 further documented sessions in this area.*
+*66 further documented sessions in this area.*
 
 ### Catch what is wrong before it reaches the client
 
@@ -63,11 +63,11 @@ AI produces plausible work, and plausible is the dangerous failure mode — it s
 
 Model selection treated as an architectural decision with a written routing standard, not a runtime default. Metered API calls measured, then moved to local inference where quality allows. Context overhead audited the way anyone else would audit a cloud bill. The capability is worth nothing if it only works on someone else's budget.
 
-- **Completed billing-deadline migration: all automation defaults now on local models** — Met the billing deadline fifteen days early; preserved the metered path for quality-sensitive cases; closed a compliance risk class across the full automation stack. *(May 2026)*
+- **Completed billing-deadline migration: all automation defaults now on local models** — Met the billing deadline fifteen days early; preserved the metered path for quality-sensitive cases. *(May 2026)*
+- **A thirty-day token census pointed a cost-cutting request at a different lever than the one suspected** — The expensive work was not where intuition put it, and the restructure that felt productive would have saved under five percent. *(Sep 2026)*
 - **A dead auth path became a governed subagent, verified end to end** — Restored a broken capability and hardened it against two silent-failure modes (unverified billing state. *(Aug 2026)*
-- **A weekly formation cycle ran in-session when its usual backend had no credentials, plus a comparison harness for the local fallback** — A credential failure didn't cost a formation cycle, and the fallback path now has an evidence trail instead of being trusted blind. *(Aug 2026)*
 
-*6 further documented sessions in this area.*
+*8 further documented sessions in this area.*
 
 ### Turn commercial pressure into a scope somebody can defend upstream
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*717 sessions recorded between 2026-03-06 and 2026-09-12; 202 of them logged but not written up. Regenerated from both sources on every update.*
+*745 sessions recorded between 2026-03-06 and 2026-09-14; 202 of them logged but not written up. Regenerated from both sources on every update.*
 
