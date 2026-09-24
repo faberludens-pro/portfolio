@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–September 2026 · **749 documented sessions** · **examples shown:** 18, drawn from 31 May – 3 September 2026
+**Period covered:** March–September 2026 · **759 documented sessions** · **examples shown:** 18, drawn from 31 May – 3 September 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -23,9 +23,9 @@ a real fix.
 
 Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a competitor's live site, someone else's codebase — the input is never clean. The work is getting from that to one specification a designer can draw from, a developer can build from, and a client will sign, with the open questions named as questions instead of quietly guessed.
 
-- **Pivot PRD and Phase 4 backend spec authored and QA-gated** — Took a strategic pivot from decision to a build-ready, gap-checked specification in one session, catching four major spec gaps before any code was written. *(Jul 2026)*
 - **A copy specification re-derived from an accepted design, with the gaps named instead of guessed** — Unblocked a copywriter working against a holiday deadline without waiting on a design that was still in motion. *(Jul 2026)*
 - **A product definition reconstructed in reverse named the requirement nobody had asked for** — Surfaced a structural requirement that would otherwise have been discovered mid-design, when the screens depending on it were already drawn. *(Aug 2026)*
+- **Two meetings recovered from calendar metadata alone, one of them never attended** — Recovered the full substance of a meeting nobody from the firm attended, and one detail of it — a stale asset generation in the shared folder. *(Jul 2026)*
 
 *17 further documented sessions in this area.*
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*749 sessions recorded between 2026-03-06 and 2026-09-16; 204 of them logged but not written up. Regenerated from both sources on every update.*
+*759 sessions recorded between 2026-03-06 and 2026-09-23; 207 of them logged but not written up. Regenerated from both sources on every update.*
 
