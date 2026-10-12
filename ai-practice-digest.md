@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–October 2026 · **785 documented sessions** · **examples shown:** 18, drawn from 31 May – 3 September 2026
+**Period covered:** March–October 2026 · **787 documented sessions** · **examples shown:** 18, drawn from 31 May – 3 September 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -75,7 +75,7 @@ Budget cuts, same-day proposal deadlines, an estimate that has to come down with
 
 - **A five-month UX proposal drafted, adversarially reviewed by an in-house agent, and delivered inside a same-day deadline** — Delivered on the requested day, six minutes inside it, with the strategy that differentiates the offer retained rather than given away. *(Jul 2026)*
 - **A second cut removed the horizon itself, and a knowledge-base gate held its ground** — Demonstrates that the practice's AI-assisted workflow enforces its own quality bar even under time pressure. *(Aug 2026)*
-- **UX Discovery quote drafted and QA'd before send, with pre-discovery findings included** — A client-facing UX Discovery quote with scope, deliverables, and a fixed investment figure; 3 pre-discovery findings delivered alongside the quote. *(Jul 2026)*
+- **A dead application link became a direct counter-proposal, with two self-reported skill claims corrected first** — Converted a dead-link lead that would ordinarily have been dropped into a direct counter-proposal. *(Aug 2026)*
 
 *7 further documented sessions in this area.*
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*785 sessions recorded between 2026-03-06 and 2026-10-01; 209 of them logged but not written up. Regenerated from both sources on every update.*
+*787 sessions recorded between 2026-03-06 and 2026-10-05; 210 of them logged but not written up. Regenerated from both sources on every update.*
 
