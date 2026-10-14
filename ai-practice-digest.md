@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–October 2026 · **787 documented sessions** · **examples shown:** 18, drawn from 31 May – 3 September 2026
+**Period covered:** March–October 2026 · **792 documented sessions** · **examples shown:** 18, drawn from 31 May – 3 September 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -33,8 +33,8 @@ Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a com
 
 Prototypes rebuilt before the meeting they are for. A phase deck re-cut and deployed to a live URL with twenty minutes' notice. A specification updated in the room as the decision lands, rather than reconstructed from notes a day later. The gap being closed is between a decision and the artifact that records it.
 
-- **A retrieval corpus assembled from documents that describe a product the client had already killed** — A retrieval system inherits the authority of whatever it is fed and reports none of its provenance. *(Aug 2026)*
-- **A compressed delivery schedule recomputed against a fixed external deadline, grounded in two calendars** — A phase-by-phase delivery schedule with two named milestones, delivered in three formats. *(Aug 2026)*
+- **A retrieval corpus assembled from documents describing a superseded scope** — A retrieval system inherits the authority of whatever it is fed and reports none of its provenance. *(Aug 2026)*
+- **A compressed delivery schedule recomputed against a fixed external deadline, grounded in two calendars** — A launch-phase delivery schedule, agreed weeks earlier, had opened on a date that had already passed by the time delivery actually began. *(Aug 2026)*
 - **A read-only production query answered in minutes a content question that had been open for six days** — Converted a predicted defect into a confirmed one before a launch freeze, and measured a commercial assumption. *(Aug 2026)*
 
 *19 further documented sessions in this area.*
@@ -43,7 +43,7 @@ Prototypes rebuilt before the meeting they are for. A phase deck re-cut and depl
 
 A specialist agent roster with governed handoffs, custom MCP servers, per-agent vector knowledge bases, a spec-to-code pipeline that files its own questions as tickets, retrieval and memory hooks, observability on every tool call.
 
-- **An inspection standard met a live product, and only the guarantee enforced by structure survived the hour** — 41 findings, 4 of them shared across two models; a cold third pass reproduced 40 of the 41; three raters agreed within ±0.09. *(Aug 2026)*
+- **An inspection standard met a live product, and only the guarantee enforced by structure survived the hour** — It separated the guarantees a method can actually make from the ones it only asserts — and it did so before the method was sold as reliable rather than after. *(Aug 2026)*
 - **Three specialists ruled on their own records, and the restore point caught what the repair destroyed** — Cleared an eight-day write freeze on a production knowledge base with every repair verified by an instrument independent of the one that made it. *(Aug 2026)*
 - **A fabricated report caught by reading the tool's own transcript, and a corrected one still needing a second correction** — A screen-recorded product tour was handed to a local coding-agent CLI wrapping a video-capable model. *(Aug 2026)*
 
@@ -73,9 +73,9 @@ Model selection treated as an architectural decision with a written routing stan
 
 Budget cuts, same-day proposal deadlines, an estimate that has to come down without the delivery quietly coming down with it. The useful move is usually to re-cut the question rather than shave the plan — and to put the sacrifice order in writing before anyone is under pressure to choose.
 
-- **A five-month UX proposal drafted, adversarially reviewed by an in-house agent, and delivered inside a same-day deadline** — Delivered on the requested day, six minutes inside it, with the strategy that differentiates the offer retained rather than given away. *(Jul 2026)*
 - **A second cut removed the horizon itself, and a knowledge-base gate held its ground** — Demonstrates that the practice's AI-assisted workflow enforces its own quality bar even under time pressure. *(Aug 2026)*
 - **A dead application link became a direct counter-proposal, with two self-reported skill claims corrected first** — Converted a dead-link lead that would ordinarily have been dropped into a direct counter-proposal. *(Aug 2026)*
+- **A month's billable hours reconstructed from five sources, after the timer missed a third of them** — Recovered roughly ten hours of delivered-but-unrecorded work, and caught a rounding defect. *(Jul 2026)*
 
 *7 further documented sessions in this area.*
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*787 sessions recorded between 2026-03-06 and 2026-10-05; 210 of them logged but not written up. Regenerated from both sources on every update.*
+*792 sessions recorded between 2026-03-06 and 2026-10-13; 215 of them logged but not written up. Regenerated from both sources on every update.*
 
