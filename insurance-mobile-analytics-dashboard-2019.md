@@ -5,8 +5,8 @@ domain: Insurance / Financial Services
 duration: ~3 months (2019)
 primary_role: Senior Information Architect
 secondary_roles:
+  - UX Researcher
   - Data Analyst
-  - Research Ops
 methods:
   - Stakeholder interviews
   - Report inventory and analysis
@@ -18,32 +18,32 @@ impact: Gave product managers direct self-service access to app metrics, designe
 
 # Major Insurer — Designing a Mobile Analytics Dashboard From First Principles
 
-A major insurer had a data bottleneck: all product analytics requests went through a central team of five people, creating delays of months for a simple data query. As the Senior Information Architect on the mobile team, I ran a three-phase research and design process — stakeholder interviews, prioritization workshop, and dashboard architecture — that gave product managers direct, self-service access to the metrics they needed.
+A major insurer had a data bottleneck: all product analytics requests went through a small central team, creating delays of months for a simple data query. In the information architect role on the mobile team, I ran a three-phase research and design process — stakeholder interviews, prioritization workshop, and dashboard architecture — that gave product managers direct, self-service access to the metrics they needed.
 
 | | |
 |---|---|
 | **Full product-line portfolio** covered in the dashboard | **5 metric categories** defined through research |
-| **The large majority** of app store complaints concentrated in recurring topics | Analytics team of **~5 people** serving the entire company |
+| **The large majority** of app store complaints concentrated in recurring topics | **A small central analytics team** serving the entire company |
 | **3 phases**: research → workshop → architecture | Dashboard scoped entirely through team-validated requirements |
 
 ---
 
 ## 1. Context
 
-A major insurer operated a mobile app covering its full product-line portfolio. Product managers across the mobile team made decisions with limited data visibility — any analytics request had to be routed through a central analytics team of approximately five people, and fulfillment could take months.
+A major insurer operated a mobile app covering its full product-line portfolio. Product managers across the mobile team made decisions with limited data visibility — any analytics request had to be routed through a small central analytics team, and fulfillment could take months.
 
-As the Senior Information Architect on the mobile team, I identified both the problem and the opportunity. The data existed; the access and structure didn't. A self-service dashboard would eliminate the bottleneck — but only if the metrics it contained were the right ones, defined by the people who needed to use it.
+From the information architect role on the mobile team, I identified both the problem and the opportunity. The data existed; the access and structure didn't. A self-service dashboard would eliminate the bottleneck — but only if the metrics it contained were the right ones, defined by the people who needed to use it.
 
 ---
 
 ## 2. My Role
 
 **Primary: Senior Information Architect**
-I led the end-to-end process from research through architecture and handoff — designing the dashboard structure, not just researching the requirements. My role combined research leadership with information architecture and design direction.
+I led the end-to-end process from research through architecture and handoff — designing the dashboard structure, not just researching the requirements. For this piece of work the role I played was information architecture, with research leadership and design direction around it.
 
 **Secondary roles:**
+- **UX Researcher**: Inventoried the recurring reports product managers received, interviewed each manager about the decisions they made and the information they lacked, and facilitated the online prioritization workshop with the product and design team that produced the final specification.
 - **Data Analyst**: Analyzed App Store and Google Play reviews to identify recurring product complaint clusters; quantified that the large majority of complaints concentrated in recurring topics, directly shaping the Content and Platform metric categories.
-- **Research Ops**: Facilitated the online prioritization workshop with the product and design team; structured the metric inventory and voting process that produced the final specification.
 
 ---
 
@@ -90,6 +90,10 @@ Prior to the workshop, there were more than enough potential metrics to build a 
 **Filter logic:** By time period and by each product line across the full portfolio.
 
 **Embedded chart reference:** A Google Data Studio chart-type reference was included in the architecture spec to guide implementation decisions for each metric type, reducing ambiguity in the handoff to the analytics team.
+
+**Team operating model (DesignOps):** Alongside the dashboard, I mapped how the mobile team delivered work end to end: eight stages from proposal to rollout, the roles taking part at each stage (business design, information architecture, user research, UX writing, interface design, product ownership and agile delivery), the references each stage draws on and the documentation it must leave behind. The diagram gave research, architecture, writing and interface design a shared sequence and a shared definition of what each hand-off contains. (Diagram labels are in Portuguese.)
+
+![Mobile team operating model — eight delivery stages from proposal to rollout, with roles, references and documentation per stage](assets/insurance-mobile-analytics-dashboard-2019/design-ops-team-operation-flow.png)
 
 **Outcome:** The delivered specification was designed to give product managers direct, self-service access to the app metrics they needed to make decisions, eliminating the months-long wait for analytics request fulfillment. The metric scope was validated by the team before any implementation work began.
 
