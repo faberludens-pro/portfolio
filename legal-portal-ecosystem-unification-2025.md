@@ -97,6 +97,10 @@ The 50+ regional offices operated independent websites with no consistency. They
 - **Layer 2 — Transitional Users**: Bar exam candidates and non-practicing members with self-service onboarding flows
 - **Layer 3 — Attorney Workspace**: Task-oriented dashboard integrating continuing education, benefits, pension, financial management, and electronic filing from one place, one login, one search — navigation restructured from department-centric (Treasurer's Office) to task-centric (My Finances)
 
+![Full architecture of the unified ecosystem — overview of the three tiers and their sub-environments (shapes only at this size)](assets/legal-portal-ecosystem-unification-2025/ecosystem-architecture-overview.jpg)
+
+![Attorney workspace — detail of the full architecture: task-centric navigation, quick access and the service areas behind it (labels in Portuguese)](assets/legal-portal-ecosystem-unification-2025/attorney-workspace-ia.jpg)
+
 **Projected outcomes:** SSO consolidation to eliminate 4 separate login systems; self-service improvements projected to reduce Level 1 support inquiries by **40%**; standard administrative tasks running at 10–20 days re-architected to 48-hour completion; standardized template for 50+ regional offices.
 
 ---

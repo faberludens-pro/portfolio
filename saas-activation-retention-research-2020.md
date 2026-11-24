@@ -60,6 +60,8 @@ A benchmark session with an external growth advisory firm surfaced that activati
 **Phase 2 — Current customers and recent churners (36 interviews, weeks 48–52)**
 Concentrated in Q4. Focus on AHA moments, WOW moments, top features, and data input behaviors. Goal: identify the specific product actions that predicted long-term retention.
 
+![Interview repository — one row per session with date, job level, company size, recording and customer type](assets/saas-activation-retention-research-2020/interview-repository.png)
+
 **Analysis:** All sessions thematically coded. Findings from potential-customer sessions were categorized by journey step — concentrated most heavily in Onboarding, then Consideration, then Activation — and by problem theme. Company-size segmentation applied across all findings.
 
 ---

@@ -89,6 +89,8 @@ Prior to the workshop, there were more than enough potential metrics to build a 
 
 **Filter logic:** By time period and by each product line across the full portfolio.
 
+![Final dashboard design, v1.4 — five metric sections, filters by period and product line (labels in Portuguese)](assets/insurance-mobile-analytics-dashboard-2019/dashboard-final-design.png)
+
 **Embedded chart reference:** A Google Data Studio chart-type reference was included in the architecture spec to guide implementation decisions for each metric type, reducing ambiguity in the handoff to the analytics team.
 
 **Team operating model (DesignOps):** Alongside the dashboard, I mapped how the mobile team delivered work end to end: eight stages from proposal to rollout, the roles taking part at each stage (business design, information architecture, user research, UX writing, interface design, product ownership and agile delivery), the references each stage draws on and the documentation it must leave behind. The diagram gave research, architecture, writing and interface design a shared sequence and a shared definition of what each hand-off contains. (Diagram labels are in Portuguese.)
