@@ -3,7 +3,7 @@
 
 # AI Practice — the working record
 
-**Period covered:** March–November 2026 · **848 documented sessions** · **examples shown:** 18, drawn from 31 May – 3 November 2026
+**Period covered:** March–November 2026 · **857 documented sessions** · **examples shown:** 18, drawn from 29 May – 3 November 2026
 
 A UX lead who, in March 2026, stopped using AI as a writing assistant and
 rebuilt the practice around it — toolchain, delivery process, quality gates,
@@ -33,9 +33,9 @@ Transcripts, PDFs, screenshots, analytics exports, legacy vendor diagrams, a com
 
 Prototypes rebuilt before the meeting they are for. A phase deck re-cut and deployed to a live URL with twenty minutes' notice. A specification updated in the room as the decision lands, rather than reconstructed from notes a day later. The gap being closed is between a decision and the artifact that records it.
 
-- **A retrieval corpus assembled from documents describing a superseded scope** — A retrieval system inherits the authority of whatever it is fed and reports none of its provenance. *(Aug 2026)*
-- **A read-only production query answered in minutes a content question that had been open for six days** — Converted a predicted defect into a confirmed one before a launch freeze, and measured a commercial assumption. *(Aug 2026)*
-- **A feature was removed from the prototype because the client's own transcript ruled it out** — Closed a loophole as a side effect — the app-level trial could not persist its state anywhere that survived uninstalling. *(Aug 2026)*
+- **A closed exposure turned out not to be closed, and the standing test for it was measuring the wrong thing** — 113 deployments removed; the remaining lever — a firewall rule that only the account owner can create — named and handed over rather than worked around. *(Sep 2026)*
+- **Phase D handoff presentation updated and deployed under time pressure** — Delivered a Phase D-accurate presentation artifact from a Phase A deck in under 20 minutes; no design work required. *(Jun 2026)*
+- **Live client meeting UX support: Figma comment capture and real-time RBAC retrieval** — Decisions that would otherwise require a follow-up cycle were captured and locked in real time. *(Jun 2026)*
 
 *19 further documented sessions in this area.*
 
@@ -43,9 +43,9 @@ Prototypes rebuilt before the meeting they are for. A phase deck re-cut and depl
 
 A specialist agent roster with governed handoffs, custom MCP servers, per-agent vector knowledge bases, a spec-to-code pipeline that files its own questions as tickets, retrieval and memory hooks, observability on every tool call.
 
-- **An inspection standard met a live product, and only the guarantee enforced by structure survived the hour** — 41 findings, 4 of them shared across two models; a cold third pass reproduced 40 of the 41; three raters agreed within ±0.09. *(Aug 2026)*
 - **A blind comparison replaced the model that writes the memory system, then a judged cleanup archived 414 junk entries** — The choice rested on evidence rather than preference, and retrieval now draws on durable entries. *(Oct 2026)*
 - **Recovering a mail ingest after a subagent silently lost most of the payload** — Removed a silent data-loss mode from the pipeline: bodies now come from source of record, not from model retyping. *(Nov 2026)*
+- **Silent-zero sweep, Tier 3: ten silent outcomes in the inbox chain made loud** — Silence can no longer pass for health: each failure mode now reports itself, so the person operating the pipeline learns about problems at the time they occur. *(Oct 2026)*
 
 *78 further documented sessions in this area.*
 
@@ -54,8 +54,8 @@ A specialist agent roster with governed handoffs, custom MCP servers, per-agent 
 AI produces plausible work, and plausible is the dangerous failure mode — it survives review because it reads well. So the errors get caught on this side of the handoff, not in a client's review queue: adversarial review runs as a standing gate, a second agent with a different brief, checking the claim against the source rather than against the document. It has retracted its own confirmed findings more than once.
 
 - **Two false findings caught by adding instruments rather than re-reading the evidence** — Prevented two confident but false findings from reaching a client's engineering team, and surfaced a set of undeclared infrastructure defects. *(Jul 2026)*
-- **Three anonymity gates, all string matchers, missed the class of leak none of them could see** — Closed a class of disclosure that string-matching cannot see by construction — removing a client's name does not remove their internal state. *(Sep 2026)*
 - **An independent QA gate caught three defects that validation by counting had passed** — Validation now has to test effect rather than presence, and the independent gate proved its worth by catching what the builder's own checks could not. *(Oct 2026)*
+- **Caught fabricated content in the firm's knowledge base and traced it to a systemic defect** — Fabricated content was removed from a knowledge base that agents cite, and the check that caught it became part of the repair routine. *(Sep 2026)*
 
 *76 further documented sessions in this area.*
 
@@ -64,8 +64,8 @@ AI produces plausible work, and plausible is the dangerous failure mode — it s
 Model selection treated as an architectural decision with a written routing standard, not a runtime default. Metered API calls measured, then moved to local inference where quality allows. Context overhead audited the way anyone else would audit a cloud bill. The capability is worth nothing if it only works on someone else's budget.
 
 - **Completed billing-deadline migration: all automation defaults now on local models** — Met the billing deadline fifteen days early; preserved the metered path for quality-sensitive cases. *(May 2026)*
-- **A thirty-day token census pointed a cost-cutting request at a different lever than the one suspected** — The expensive work was not where intuition put it, and the restructure that felt productive would have saved under five percent. *(Sep 2026)*
-- **A zero-token watchdog for an unattended agent poller** — A scheduled watchdog that survived two session exits across 46 runs with exit code 0 and no false alerts. *(Oct 2026)*
+- **A zero-token watchdog for an unattended agent poller** — Monitoring now costs zero tokens per check and no longer depends on an open session, so an unattended automation is watched continuously at no running cost. *(Oct 2026)*
+- **Local model stack consolidated to two models** — Fixed a bug silently degrading every cron synthesis run; simplified the local model stack. *(May 2026)*
 
 *9 further documented sessions in this area.*
 
@@ -111,5 +111,5 @@ contributed, what was produced, what it was worth — in a dated working record
 kept privately and available on request. This page is generated from that
 record, so the two cannot drift apart.
 
-*848 sessions recorded between 2026-03-06 and 2026-11-11; 223 of them logged but not written up. Regenerated from both sources on every update.*
+*857 sessions recorded between 2026-03-06 and 2026-11-24; 226 of them logged but not written up. Regenerated from both sources on every update.*
 
